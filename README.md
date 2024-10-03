@@ -1,7 +1,7 @@
 [![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)
 <h1 align="center">Hi 👋, I'm Pranit Chilbule</h1>
 <h3 align="center">3rd Year Engineering Student Specializing in AIML | Passionate About Machine Learning, AI, and Data Science | Front-End Developer & MERN Stack Enthusiast</h3>
-<img align="right" alt ="coding" width="400" img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FOyGx&psig=AOvVaw39e_ESvyUR3A_4rBt70WW0&ust=1728073138531000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIj-7p-E84gDFQAAAAAdAAAAABAb"  img>
+<img align="right" alt ="coding" width="400" img src="https://www.google.com/urlsa=i&url=https%3A%2F%2Fgifer.com%2Fen%2FOyGx&psig=AOvVaw39e_ESvyUR3A_4rBt70WW0&ust=1728073138531000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIj-7p-E84gDFQAAAAAdAAAAABAb"  img>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranit144&label=Profile%20views&color=0e75b6&style=flat" alt="pranit144" /> </p>
 
 - 👨‍💻 All of my projects are available at [github repo](github repo)
