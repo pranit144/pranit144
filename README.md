@@ -18,46 +18,7 @@
 </p>
 
 <!-- Add more CSS for styling and animations -->
-<style>
-  body {
-    background-color: #f0f0f0; /* Light gray background */
-    font-family: 'Arial', sans-serif; /* Change font for better aesthetics */
-    margin: 0;
-    padding: 0;
-  }
-  h1, h3 {
-    color: #333; /* Darker text color for headings */
-    text-shadow: 1px 1px 2px rgba(0, 0, 0, 0.1); /* Subtle shadow for depth */
-  }
-  a img {
-    transition: transform 0.3s ease, box-shadow 0.3s ease; /* Smooth hover effect */
-  }
-  a img:hover {
-    transform: scale(1.1); /* Scale up on hover */
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.2); /* Add shadow on hover */
-  }
-  .container {
-    max-width: 1200px; /* Limit the width of the content */
-    margin: auto; /* Center the container */
-    padding: 20px; /* Add padding */
-  }
-  .section {
-    background-color: #ffffff; /* White background for sections */
-    border-radius: 10px; /* Rounded corners */
-    box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1); /* Subtle shadow for sections */
-    padding: 20px; /* Padding inside sections */
-    margin-bottom: 20px; /* Space between sections */
-    transition: transform 0.3s ease; /* Transition for section hover */
-  }
-  .section:hover {
-    transform: translateY(-5px); /* Lift effect on hover */
-  }
-  .stats {
-    display: flex; /* Flexbox for stats layout */
-    justify-content: center; /* Center the stats */
-    gap: 20px; /* Space between stats */
-  }
-</style>
+
 
 <div class="container">
   <h1 align="center" style="background-color: #007acc; padding: 20px; border-radius: 10px;">My GitHub Stats</h1>
