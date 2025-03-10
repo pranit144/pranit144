@@ -19,9 +19,48 @@
 <div>
   <img align="right" height="270" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9ndjZlYjBkemdxc2hzdGF2MHhlN2t5dXc2OXVzZndsajhveXV4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
   
-  <h2>💫 About Me</h2>
+  <!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Pranit's Profile</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      margin: 2rem;
+      background-color: #f5f5f5;
+      color: #333;
+    }
+    .profile {
+      max-width: 600px;
+      margin: auto;
+      background: #fff;
+      padding: 2rem;
+      border-radius: 8px;
+      box-shadow: 0 0 10px rgba(0,0,0,0.1);
+    }
+    h1 {
+      text-align: center;
+    }
+    ul {
+      list-style: none;
+      padding: 0;
+    }
+    li {
+      margin: 0.5rem 0;
+    }
+  </style>
+</head>
+<body>
   
-  <!-- The following JSON data is stored in a non-executable script tag -->
+  <div class="profile">
+    <h1>About Pranit</h1>
+    <!-- This is where we'll display the JSON data -->
+    <ul id="profile-data"></ul>
+  </div>
+  
+  <!-- JSON Data stored in a non-executable script tag -->
   <script type="application/json" id="pranit-data">
   {
     "education": "3rd Year Engineering (AIML)",
@@ -32,14 +71,30 @@
   }
   </script>
   
-  <ul>
-    <li>🔭 Working on <strong>ML Models</strong> & <strong>Web Apps</strong></li>
-    <li>🌱 Exploring the depths of <strong>AI & Data Science</strong></li>
-    <li>💬 Let's talk about <strong>Python</strong>, <strong>React</strong>, <strong>ML Algorithms</strong></li>
-    <li>📧 Reach me: <strong>pranitchilbule1@gmail.com</strong></li>
-    <li>🔗 My projects: <a href="https://github.com/pranit144?tab=repositories">GitHub Repositories</a></li>
-  </ul>
-</div>
+  <!-- JavaScript to retrieve and display the JSON data -->
+  <script>
+    // Retrieve the JSON data from the script tag
+    const dataEl = document.getElementById('pranit-data');
+    const pranitData = JSON.parse(dataEl.textContent);
+    
+    // Reference the HTML element where the data will be displayed
+    const profileList = document.getElementById('profile-data');
+    
+    // Create and append list items for each key/value pair
+    for (const [key, value] of Object.entries(pranitData)) {
+      const li = document.createElement('li');
+      
+      // If the value is an array, join its elements with commas
+      const displayValue = Array.isArray(value) ? value.join(', ') : value;
+      
+      li.textContent = key.charAt(0).toUpperCase() + key.slice(1) + ": " + displayValue;
+      profileList.appendChild(li);
+    }
+  </script>
+  
+</body>
+</html>
+
 
 
 <!-- Social Media Connections with Animated Icons -->
