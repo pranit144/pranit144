@@ -13,6 +13,20 @@
   <img src="https://komarev.com/ghpvc/?username=pranit144&label=Visitors&color=blueviolet&style=for-the-badge" alt="profile views" /> 
 </p>
 
+<!-- Featured Video Section -->
+<div align="center">
+  <h2>🎬 Welcome Video</h2>
+  
+  <a href="https://github.com/pranit144/pranit144/blob/main/Untitled.mp4">
+    <img src="https://img.shields.io/badge/▶️_Watch_My_Intro_Video-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="Watch Video" />
+  </a>
+  
+  <p><i>Click the button above to watch my introduction video!</i></p>
+  
+  <!-- GitHub doesn't support direct video embedding in markdown, but we can add this note for when users view the README on your profile -->
+  <p><sub>(Video plays in GitHub's video player when viewing the repository directly)</sub></p>
+</div>
+
 <!-- About Me Section with Animated GIF -->
 <div>
   <img align="right" height="270" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9ndjZlYjBkemdxc2hzdGF2MHhlN2t5dXc2OXVzZndsajhveXV4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
