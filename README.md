@@ -1,128 +1,177 @@
-[![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)](https://github.com/pranit144)
-
+<!-- Custom Banner with Animation Effect -->
 <div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Pranit%20Chilbule&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20|%20MERN%20Developer%20|%20Tech%20Enthusiast&descAlignY=51&descAlign=62" width="100%"/>
+</div>
+
+<!-- Animated Introduction Section -->
+<div align="center">
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6842F7&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+Coding+Universe!;AI%2FML+Engineering+Student;Full+Stack+Web+Developer;Problem+Solver+%26+Innovator" alt="Typing SVG" /></a>
+</div>
+
+<!-- Profile Views Badge -->
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=pranit144&label=Visitors&color=blueviolet&style=for-the-badge" alt="profile views" /> 
+</p>
+
+<!-- About Me Section with Animated GIF -->
+<div>
+  <img align="right" height="270" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9ndjZlYjBkemdxc2hzdGF2MHhlN2t5dXc2OXVzZndsajhveXV4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
   
-  # Hello, World! I'm Pranit Chilbule 👋
+  ## 💫 About Me
   
-  ### 3rd Year Engineering Student | AIML Specialist | ML & Data Science Enthusiast | MERN Stack Developer
+  ```javascript
+  const pranit = {
+    education: "3rd Year Engineering (AIML)",
+    passions: ["Machine Learning", "Web Development", "Problem Solving"],
+    currentlyLearning: "Deep Learning & Advanced MERN Stack",
+    funFact: "I debug code faster than I debug life problems!",
+    motto: "Creating solutions one line of code at a time"
+  };
+  ```
   
-  <a href="mailto:pranitchilbule1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <a href="https://www.linkedin.com/in/pranit-chilbule"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/pranit144"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  - 🔭 Working on **ML Models** & **Web Apps**
+  - 🌱 Exploring the depths of **AI & Data Science**
+  - 💬 Let's talk about **Python**, **React**, **ML Algorithms**
+  - 📧 Reach me: **pranitchilbule1@gmail.com**
+  - 🔗 My projects: [GitHub Repositories](https://github.com/pranit144?tab=repositories)
   
-  <img src="https://komarev.com/ghpvc/?username=pranit144&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
+</div>
+
+<!-- Social Media Connections with Animated Icons -->
+<div align="center">
+  <h2>🌐 Connect With Me</h2>
+  
+  <a href="https://www.linkedin.com/in/pranit-chilbule" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+  </a>
+  <a href="mailto:pranitchilbule1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="gmail" />
+  </a>
+  <a href="https://github.com/pranit144">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
+  </a>
+
+  <!-- Add more social links as needed -->
+</div>
+
+<!-- Tech Stack Section with Animated Progress Bars -->
+<div align="center">
+  <h2>🛠️ My Tech Arsenal</h2>
+  
+  <!-- Languages -->
+  <h3>⚡ Languages & Frameworks</h3>
+  
+  ![Python](https://img.shields.io/badge/Python-90%25-3776AB?style=for-the-badge&logo=python&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-85%25-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+  ![C++](https://img.shields.io/badge/C++-75%25-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+  ![Java](https://img.shields.io/badge/Java-70%25-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+  ![HTML5/CSS3](https://img.shields.io/badge/HTML5/CSS3-95%25-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+  
+  <!-- AI/ML Technologies -->
+  <h3>🧠 AI/ML Technologies</h3>
+  
+  <p align="center">
+    <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="HuggingFace"/></a>
+  </p>
+  
+  <!-- Web Development -->
+  <h3>🌐 Web Development</h3>
+  
+  <p align="center">
+    <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express.js"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/></a>
+  </p>
+  
+  <!-- Tools and Technologies -->
+  <h3>🔧 Tools & Technologies</h3>
+  
+  <p align="center">
+    <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/></a>
+    <a href="#"><img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/></a>
+  </p>
 
 </div>
 
+<!-- GitHub Stats with Animations -->
 <div align="center">
-  <img src="https://i.gifer.com/OyGx.gif" width="400" alt="coding animation" />
+  <h2>📊 GitHub Statistics</h2>
+  
+  <!-- 3D contribution calendar -->
+  <img src="./profile-3d-contrib/profile-night-green.svg" width="100%"/>
+  
+  <br/><br/>
+  
+  <!-- GitHub stats card with animation -->
+  <a href="https://github.com/pranit144">
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pranit144&show_icons=true&theme=radical&include_all_commits=true&count_private=true&border_radius=8&hide_border=true&bg_color=0D1117" alt="pranit's github stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranit144&layout=compact&langs_count=7&theme=radical&border_radius=8&hide_border=true&bg_color=0D1117" alt="pranit's top languages"/>
+  </a>
+  
+  <br/><br/>
+  
+  <!-- GitHub streak stats -->
+  <a href="https://github.com/pranit144">
+    <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=pranit144&theme=radical&hide_border=true&background=0D1117" alt="pranit's streak stats"/>
+  </a>
+  
+  <br/><br/>
+  
+  <!-- Activity graph -->
+  <a href="https://github.com/pranit144">
+    <img src="https://activity-graph.herokuapp.com/graph?username=pranit144&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" alt="pranit's contribution graph"/>
+  </a>
 </div>
 
-## 💫 About Me
-
-- 🎓 Currently pursuing engineering with specialization in **Artificial Intelligence & Machine Learning**
-- 🔭 Working on **Machine Learning** and **Full Stack Web Development** projects
-- 🧠 Passionate about leveraging AI to solve real-world problems
-- 👨‍💻 Check out my projects: [My GitHub Repositories](https://github.com/pranit144?tab=repositories)
-- 📫 Reach me at: **pranitchilbule1@gmail.com**
-
+<!-- GitHub Trophies -->
 <div align="center">
-  
-  ## 🛠️ My Tech Stack
-  
+  <h2>🏆 GitHub Achievements</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=pranit144&theme=radical&no-frame=true&row=1&column=7&margin-w=15" alt="GitHub Trophies"/>
 </div>
 
-<details open>
-  <summary><b>🧰 Languages & Frameworks</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
-    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
-    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
-    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  </p>
-</details>
-
-<details open>
-  <summary><b>🧠 AI & ML</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-    <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
-    <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-    <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/>
-    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge" alt="HuggingFace"/>
-  </p>
-</details>
-
-<details open>
-  <summary><b>🌐 Web Dev</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
-    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
-    <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" alt="FastAPI"/>
-    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit"/>
-  </p>
-</details>
-
-<details>
-  <summary><b>🗄️ Databases</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
-  </p>
-</details>
-
-<details>
-  <summary><b>☁️ Cloud & Tools</b></summary>
-  <br>
-  <p align="center">
-    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
-    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
-    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
-  </p>
-</details>
-
+<!-- Projects Showcase Section -->
 <div align="center">
+  <h2>🚀 Featured Projects</h2>
   
-  ## 📊 GitHub Stats
+  <a href="https://github.com/pranit144/Project1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranit144&repo=Project1&theme=radical&hide_border=true&bg_color=0D1117" alt="Project 1"/>
+  </a>
+  <a href="https://github.com/pranit144/Project2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=pranit144&repo=Project2&theme=radical&hide_border=true&bg_color=0D1117" alt="Project 2"/>
+  </a>
   
-  <img src="https://github-readme-stats.vercel.app/api?username=pranit144&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
-  
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranit144&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranit144&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+  <!-- Add more pinned repositories as needed -->
 </div>
 
+<!-- Motivational Quote -->
 <div align="center">
-  
-  ## 🏆 GitHub Trophies
-  <img src="https://github-profile-trophy.vercel.app/?username=pranit144&theme=tokyonight&no-frame=true&row=1" alt="GitHub Trophies"/>
-</div>
-
-<br>
-
-<div align="center">
-  
-  ### "Code is like humor. When you have to explain it, it's bad." – Cory House
-  
+  <br>
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
+  <br>
 </div>
 
 <!-- Snake animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranit144/pranit144/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranit144/pranit144/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pranit144/pranit144/output/snake.svg">
-</picture>
+<div align="center">
+  <h2>🐍 Contribution Graph</h2>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranit144/pranit144/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranit144/pranit144/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pranit144/pranit144/output/snake.svg">
+  </picture>
+</div>
+
+<!-- Footer -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=footer" width="100%"/>
+</div>
