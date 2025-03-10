@@ -15,29 +15,32 @@
 
 
 
-<!-- About Me Section with Animated GIF -->
+<!-- About Me Section -->
 <div>
   <img align="right" height="270" width="400" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9ndjZlYjBkemdxc2hzdGF2MHhlN2t5dXc2OXVzZndsajhveXV4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
   
-  ## 💫 About Me
+  <h2>💫 About Me</h2>
   
-  ```javascript
-  const pranit = {
-    education: "3rd Year Engineering (AIML)",
-    passions: ["Machine Learning", "Web Development", "Problem Solving"],
-    currentlyLearning: "Deep Learning & Advanced MERN Stack",
-    funFact: "I debug code faster than I debug life problems!",
-    motto: "Creating solutions one line of code at a time"
-  };
-  ```
+  <!-- The following JSON data is stored in a non-executable script tag -->
+  <script type="application/json" id="pranit-data">
+  {
+    "education": "3rd Year Engineering (AIML)",
+    "passions": ["Machine Learning", "Web Development", "Problem Solving"],
+    "currentlyLearning": "Deep Learning & Advanced MERN Stack",
+    "funFact": "I debug code faster than I debug life problems!",
+    "motto": "Creating solutions one line of code at a time"
+  }
+  </script>
   
-  - 🔭 Working on **ML Models** & **Web Apps**
-  - 🌱 Exploring the depths of **AI & Data Science**
-  - 💬 Let's talk about **Python**, **React**, **ML Algorithms**
-  - 📧 Reach me: **pranitchilbule1@gmail.com**
-  - 🔗 My projects: [GitHub Repositories](https://github.com/pranit144?tab=repositories)
-  
+  <ul>
+    <li>🔭 Working on <strong>ML Models</strong> & <strong>Web Apps</strong></li>
+    <li>🌱 Exploring the depths of <strong>AI & Data Science</strong></li>
+    <li>💬 Let's talk about <strong>Python</strong>, <strong>React</strong>, <strong>ML Algorithms</strong></li>
+    <li>📧 Reach me: <strong>pranitchilbule1@gmail.com</strong></li>
+    <li>🔗 My projects: <a href="https://github.com/pranit144?tab=repositories">GitHub Repositories</a></li>
+  </ul>
 </div>
+
 
 <!-- Social Media Connections with Animated Icons -->
 <div align="center">
