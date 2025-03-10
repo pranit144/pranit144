@@ -1,140 +1,128 @@
 [![MasterHead](https://previews.123rf.com/images/karpenkoilia/karpenkoilia1806/karpenkoilia180600011/102988806-vector-line-web-concept-for-programming-linear-web-banner-for-coding-.jpg)](https://github.com/pranit144)
-<h1 align="center">Hi 👋, I'm Pranit Chilbule</h1>
-<h3 align="center">3rd Year Engineering Student Specializing in AIML | Passionate About Machine Learning, AI, and Data Science | Front-End Developer & MERN Stack Enthusiast</h3>
 
-<img align="right" alt="coding" width="400" src="https://i.gifer.com/OyGx.gif">
-
-<p align="left"> 
-  <img src="https://komarev.com/ghpvc/?username=pranit144&label=Profile%20views&color=0e75b6&style=flat" alt="pranit144" /> 
-</p>
-
-- 👨‍💻 All of my projects are available at [My GitHub Repos](https://github.com/pranit144)
-- 📫 How to reach me: **pranitchilbule1@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="mailto:pranitchilbule1@gmail.com"><img src="https://img.icons8.com/color/48/000000/gmail.png" alt="email"></a>
-  <a href="https://www.linkedin.com/in/pranit-chilbule"><img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="linkedin"></a>
-</p>
-
-<!-- Add more CSS for styling and animations -->
-
-
-<div class="container">
-  <h1 align="center" style="background-color: #007acc; padding: 20px; border-radius: 10px;">My GitHub Stats</h1>
+<div align="center">
   
-  <div class="stats">
-    <p align="center" class="section">
-      <img src="https://github-readme-stats.vercel.app/api?username=pranit144&show_icons=true&locale=en&theme=dark" alt="pranit144" />
-    </p>
-    <p align="center" class="section">
-      <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranit144&theme=dark" alt="pranit144" />
-    </p>
-  </div>
+  # Hello, World! I'm Pranit Chilbule 👋
   
-  <h3 align="center" style="color: #007acc;">Languages and Tools:</h3>
-  <p align="left" class="section">
-    <!-- Programming Languages -->
-    <a href="https://www.python.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/>
-    </a>
-    <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
-    </a>
-    <a href="https://www.java.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/>
-    </a>
-    <a href="https://www.php.net" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
-    </a>
-    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
-    </a>
-    <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" alt="flask" width="40" height="40"/>
-    </a>
-    <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer">
-      <img src="https://cdn.worldvectorlogo.com/logos/django.svg" alt="django" width="40" height="40"/>
-    </a>
-    <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/>
-    </a>
-    <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/>
-    </a>
-    <!-- Databases -->
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/>
-    </a>
-    <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/>
-    </a>
-    <a href="https://www.oracle.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/>
-    </a>
-    <!-- Cloud and Version Control -->
-    <a href="https://aws.amazon.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/>
-    </a>
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
-    </a>
-    <a href="https://github.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original-wordmark.svg" alt="github" width="40" height="40"/>
-    </a>
-    <!-- Mobile Development -->
-    <a href="https://developer.android.com" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/>
-    </a>
-    <a href="https://flutter.dev" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/>
-    </a>
-    <!-- AI and Data Science -->
-    <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
-    </a>
-    <a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
-    </a>
-    <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer">
-      <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
-    </a>
-    <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/>
-    </a>
-    <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-      <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/>
-    </a>
-    <a href="https://www.fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-      <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/fastapi.svg" alt="fastapi" width="40" height="40"/>
-    </a>
-    <a href="https://streamlit.io/" target="_blank" rel="noreferrer">
-      <img src="https://streamlit.io/images/brand/streamlit-logo-primary-colormark-darktext.png" alt="streamlit" width="40" height="40"/>
-    </a>
-    <a href="https://huggingface.co/" target="_blank" rel="noreferrer">
-      <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" alt="huggingface" width="40" height="40"/>
-    </a>
-    <a href="https://ai.facebook.com/tools/llama/" target="_blank" rel="noreferrer">
-      <img src="https://ai.facebook.com/static/og-image.48fcdc34d7dd.png" alt="llama" width="40" height="40"/>
-    </a>
-    <!-- Computer Vision -->
-    <a href="https://opencv.org/" target="_blank" rel="noreferrer">
-      <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/>
-    </a>
-  </p>
+  ### 3rd Year Engineering Student | AIML Specialist | ML & Data Science Enthusiast | MERN Stack Developer
+  
+  <a href="mailto:pranitchilbule1@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <a href="https://www.linkedin.com/in/pranit-chilbule"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/pranit144"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  
+  <img src="https://komarev.com/ghpvc/?username=pranit144&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" /> 
+
 </div>
 
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=pranit144&show_icons=true&locale=en&layout=compact" alt="pranit144" />
-</p>
-<img src="https://raw.githubusercontent.com/pranit144/pranit144/output/snake.svg" alt="Snake animation" />
+<div align="center">
+  <img src="https://i.gifer.com/OyGx.gif" width="400" alt="coding animation" />
+</div>
 
+## 💫 About Me
+
+- 🎓 Currently pursuing engineering with specialization in **Artificial Intelligence & Machine Learning**
+- 🔭 Working on **Machine Learning** and **Full Stack Web Development** projects
+- 🧠 Passionate about leveraging AI to solve real-world problems
+- 👨‍💻 Check out my projects: [My GitHub Repositories](https://github.com/pranit144?tab=repositories)
+- 📫 Reach me at: **pranitchilbule1@gmail.com**
+
+<div align="center">
+  
+  ## 🛠️ My Tech Stack
+  
+</div>
+
+<details open>
+  <summary><b>🧰 Languages & Frameworks</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+    <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C"/>
+    <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+    <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
+    <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
+  </p>
+</details>
+
+<details open>
+  <summary><b>🧠 AI & ML</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
+    <img src="https://img.shields.io/badge/scikit_learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" alt="Scikit-Learn"/>
+    <img src="https://img.shields.io/badge/Pandas-2C2D72?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+    <img src="https://img.shields.io/badge/OpenCV-27338e?style=for-the-badge&logo=OpenCV&logoColor=white" alt="OpenCV"/>
+    <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge" alt="HuggingFace"/>
+  </p>
+</details>
+
+<details open>
+  <summary><b>🌐 Web Dev</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
+    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+    <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask"/>
+    <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" alt="Django"/>
+    <img src="https://img.shields.io/badge/fastapi-109989?style=for-the-badge&logo=FASTAPI&logoColor=white" alt="FastAPI"/>
+    <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=Streamlit&logoColor=white" alt="Streamlit"/>
+  </p>
+</details>
+
+<details>
+  <summary><b>🗄️ Databases</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+    <img src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" alt="Oracle"/>
+  </p>
+</details>
+
+<details>
+  <summary><b>☁️ Cloud & Tools</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://img.shields.io/badge/Amazon_AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
+    <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android"/>
+    <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter"/>
+  </p>
+</details>
+
+<div align="center">
+  
+  ## 📊 GitHub Stats
+  
+  <img src="https://github-readme-stats.vercel.app/api?username=pranit144&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" height="180"/>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranit144&theme=tokyonight&hide_border=true" alt="GitHub Streak" height="180"/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranit144&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180"/>
+</div>
+
+<div align="center">
+  
+  ## 🏆 GitHub Trophies
+  <img src="https://github-profile-trophy.vercel.app/?username=pranit144&theme=tokyonight&no-frame=true&row=1" alt="GitHub Trophies"/>
+</div>
+
+<br>
+
+<div align="center">
+  
+  ### "Code is like humor. When you have to explain it, it's bad." – Cory House
+  
+</div>
+
+<!-- Snake animation -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pranit144/pranit144/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pranit144/pranit144/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pranit144/pranit144/output/snake.svg">
+</picture>
