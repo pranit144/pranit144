@@ -19,15 +19,30 @@
   
   ## 💫 About Me
   
-  ```javascript
-  const pranit = {
-    education: "3rd Year Engineering (AIML)",
-    passions: ["Machine Learning", "Web Development", "Problem Solving"],
-    currentlyLearning: "Deep Learning & Advanced MERN Stack",
-    funFact: "I debug code faster than I debug life problems!",
-    motto: "Creating solutions one line of code at a time"
-  };
-  ```
+  <div style="background-color: #0D1117; padding: 15px; border-radius: 6px; border-left: 3px solid #6842F7;">
+    <table>
+      <tr>
+        <td><b>Education:</b></td>
+        <td>3rd Year Engineering (AIML)</td>
+      </tr>
+      <tr>
+        <td><b>Passions:</b></td>
+        <td>Machine Learning, Web Development, Problem Solving</td>
+      </tr>
+      <tr>
+        <td><b>Currently Learning:</b></td>
+        <td>Deep Learning & Advanced MERN Stack</td>
+      </tr>
+      <tr>
+        <td><b>Fun Fact:</b></td>
+        <td>I debug code faster than I debug life problems!</td>
+      </tr>
+      <tr>
+        <td><b>Motto:</b></td>
+        <td>Creating solutions one line of code at a time</td>
+      </tr>
+    </table>
+  </div>
   
   - 🔭 I'm currently working on **ML Models** & **Full-Stack Web Applications**
   - 🌱 I'm exploring the depths of **AI & Data Science**
