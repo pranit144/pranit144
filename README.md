@@ -8,13 +8,13 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6842F7&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+Coding+Universe!;AI%2FML+Engineering+Student;Full+Stack+Web+Developer;Problem+Solver+%26+Innovator" alt="Typing SVG" /></a>
 </div>
 
- ## 💫 About Me
+
+ ## 👨‍💻 About Me  
 
 <!-- About Me Section with Animated GIF -->
 <div>
   <img align="right" height="230"  alt="Coding GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9ndjZlYjBkemdxc2hzdGF2MHhlN2t5dXc2OXVzZndsajhveXV4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
   
- ## 👨‍💻 About Me  
 
 <table>
   <tr>
