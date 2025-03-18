@@ -14,33 +14,35 @@
 <div>
   <img align="right" height="230"  alt="Coding GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9ndjZlYjBkemdxc2hzdGF2MHhlN2t5dXc2OXVzZndsajhveXV4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
   
- 
-  
-  <div style="background-color: #0D1117; padding: 15px; border-radius: 6px; border-left: 3px solid #6842F7;">
-    <table>
-      <tr>
-        <td><b>Education:</b></td>
-        <td>3rd Year Engineering (AIML)</td>
-      </tr>
-      <tr>
-        <td><b>Passions:</b></td>
-        <td>Machine Learning, Web Development, Problem Solving</td>
-      </tr>
-      <tr>
-        <td><b>Currently Learning:</b></td>
-        <td>Deep Learning & Advanced MERN Stack</td>
-      </tr>
-      <tr>
-        <td><b>Fun Fact:</b></td>
-        <td>I debug code faster than I debug life problems!</td>
-      </tr>
-      <tr>
-        <td><b>Motto:</b></td>
-        <td>Creating solutions one line of code at a time</td>
-      </tr>
-    </table>
+ ## 👨‍💻 About Me  
+
+<table>
+  <tr>
+    <td><b>🎓 Education:</b></td>
+    <td>3rd Year Engineering (AIML)</td>
+  </tr>
+  <tr>
+    <td><b>💻 Passions:</b></td>
+    <td>Machine Learning, Web Development, Problem Solving</td>
+  </tr>
+  <tr>
+    <td><b>🧠 Currently Learning:</b></td>
+    <td>Deep Learning & MERN Stack</td>
+  </tr>
+  <tr>
+    <td><b>⚡ Fun Fact:</b></td>
+    <td>I debug code faster than I debug life problems!</td>
+  </tr>
+  <tr>
+    <td><b>💡 Motto:</b></td>
+    <td>Creating solutions one line of code at a time</td>
+  </tr>
+</table>
+
+
   </div>
-  
+  <br>
+  <br>
   - 🔭 I'm currently working on **ML Models** & **Full-Stack Web Applications**
   - 🌱 I'm exploring the depths of **AI & Data Science**
   - 💬 Let's connect and collaborate on **Python**, **React**, and **ML Algorithms**
