@@ -12,7 +12,7 @@
 
 <!-- About Me Section with Animated GIF -->
 <div>
-  <img align="right" height="240"  alt="Coding GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9ndjZlYjBkemdxc2hzdGF2MHhlN2t5dXc2OXVzZndsajhveXV4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
+  <img align="right" height="230"  alt="Coding GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9ndjZlYjBkemdxc2hzdGF2MHhlN2t5dXc2OXVzZndsajhveXV4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif"/>
   
  
   
