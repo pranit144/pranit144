@@ -43,10 +43,10 @@
   </div>
   <br>
   <br>
-  - 🔭 I'm currently working on **ML Models** & **Full-Stack Web Applications**<br>
-  - 🌱 I'm exploring the depths of **AI & Data Science**<br>
-  - 💬 Let's connect and collaborate on **Python**, **React**, and **ML Algorithms**<br>
-  - 📧 Reach me at: **pranitchilbule1@gmail.com**<br>
+  - 🔭 I'm currently working on ML Models & Full-Stack Web Applications<br>
+  - 🌱 I'm exploring the depths of AI & Data Science<br>
+  - 💬 Let's connect and collaborate on Python, React, and ML Algorithms<br>
+  - 📧 Reach me at: pranitchilbule1@gmail.com<br>
   - 🌟 Check out my projects: [GitHub Repositories](https://github.com/pranit144?tab=repositories)
   
 </div>
