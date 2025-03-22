@@ -23,7 +23,7 @@
   </tr>
   <tr>
     <td><b>💻 Passions:</b></td>
-    <td>Machine Learning, Web Development, Problem Solving</td>
+    <td>Machine Learning, Web Development,<br> Problem Solving</td>
   </tr>
   <tr>
     <td><b>🧠 Currently Learning:</b></td>
@@ -31,11 +31,11 @@
   </tr>
   <tr>
     <td><b>⚡ Fun Fact:</b></td>
-    <td>I debug code faster than I debug life problems!</td>
+    <td>I debug code faster than <br>I debug life problems!</td>
   </tr>
   <tr>
     <td><b>💡 Motto:</b></td>
-    <td>Creating solutions one line of code at a time</td>
+    <td>Creating solutions one line<br> of code at a time</td>
   </tr>
 </table>
 
