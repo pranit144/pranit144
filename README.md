@@ -24,9 +24,10 @@
 
 <img align="right" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9ndjZlYjBkemdxc2hzdGF2MHhlN2t5dXc2OXVzZndsajhveXV4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" />
 
+
 ```python
 class PranitChilbule:
-    def \_\_init\_\_(self):  # Using the correct double underscores
+    def __init__(self):  # Using the correct double underscores
         self.name = "Pranit Chilbule"
         self.education = "B.Tech - Artificial Intelligence & ML"
         self.role = "AI Engineer & MERN Developer"
@@ -41,6 +42,7 @@ class PranitChilbule:
 
 me = PranitChilbule()
 me.say_hi()
+```
 ```
 
 > "I transform complex problems into elegant solutions, one line of code at a time."
