@@ -26,7 +26,7 @@
 
 ```python
 class PranitChilbule:
-    def __init__(self):  # Using the correct double underscores
+    def \_\_init\_\_(self):  # Using the correct double underscores
         self.name = "Pranit Chilbule"
         self.education = "B.Tech - Artificial Intelligence & ML"
         self.role = "AI Engineer & MERN Developer"
