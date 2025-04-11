@@ -1,342 +1,194 @@
-<!-- 3D Animated Header with Custom Effects -->
+<!-- Animated Custom Header -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=gradient&customColorList=12,30,97,108,36&height=300&section=header&text=PRANIT%20CHILBULE&fontSize=90&animation=scaleIn&fontAlignY=38&desc=DIGITAL%20ARCHITECT%20|%20CODE%20ARTIST&descAlignY=60&descAlign=50&stroke=6842F7&strokeWidth=3" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=venom&color=gradient&customColorList=12,30,97,108&height=300&section=header&text=Pranit%20Chilbule&fontSize=90&animation=twinkling&fontAlignY=38&desc=Crafting%20Intelligence%20Through%20Code&descAlignY=55&descAlign=50" width="100%"/>
 </div>
 
-<!-- Terminal-style Introduction - Super Unique! -->
+<!-- Interactive Typing Animation -->
 <div align="center">
-  
-```bash
-$ whoami
-> Pranit Chilbule
+  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=6842F7&center=true&vCenter=true&random=false&width=600&lines=AI%2FML+Engineer+%F0%9F%A4%96;MERN+Stack+Developer+%F0%9F%8C%90;Problem+Solver+%26+Innovator+%F0%9F%92%A1;Welcome+to+my+Digital+Laboratory+%F0%9F%94%AC" alt="Typing SVG" /></a>
+</div>
 
-$ pwd
-> /universe/earth/india/tech_innovators/pranit
+<!-- Visitor Counter & GitHub Metrics -->
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=pranit144&style=for-the-badge&color=6842F7" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/pranit144?style=for-the-badge&color=6842F7" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/pranit144?style=for-the-badge&color=6842F7" alt="Stars" />
+</div>
 
-$ cat pranit_skills.txt
-> Artificial Intelligence | Machine Learning | MERN Stack | Problem Solving
+<!-- Animated Divider -->
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" width="100%">
+</div>
 
-$ uptime
-> Up and coding for 3+ years, 0 days of rest
+## 👨‍💻 About Me: The Digital Architect
 
-$ ps -aux | grep "current_projects"
-> AI_VISION_MODEL      ACTIVE  90% CPU  80% MEM
-> MERN_APP_PLATFORM    ACTIVE  85% CPU  70% MEM
-> NEURAL_NET_RESEARCH  ACTIVE  95% CPU  90% MEM
+<img align="right" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9ndjZlYjBkemdxc2hzdGF2MHhlN2t5dXc2OXVzZndsajhveXV4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" />
 
-$ echo "Welcome to my code laboratory"
+```python
+class PranitChilbule:
+    def __init__(self):
+        self.name = "Pranit Chilbule"
+        self.education = "B.Tech - Artificial Intelligence & ML"
+        self.role = "AI Engineer & MERN Developer"
+        self.location = "India"
+        self.languages = ["Python", "JavaScript", "C++", "Java"]
+        self.interests = ["Machine Learning", "Web Development", 
+                         "Problem Solving", "Innovation"]
+        self.current_focus = "Deep Learning & MERN Stack"
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together!")
+
+me = PranitChilbule()
+me.say_hi()
 ```
 
-</div>
+> "I transform complex problems into elegant solutions, one line of code at a time."
 
-<!-- Custom 3D Rotating Tech Stack Globe - This is wild! -->
+- 🔭 Currently building: **Advanced ML Models & Full-Stack Applications**
+- 🧠 Exploring: **Deep Learning, LLMs, and Computer Vision**
+- 🌱 Learning: **Generative AI and Cloud Infrastructure**
+- 💡 Ask me about: **Python, React, ML Pipelines, and Web Development**
+- 📧 Reach me: **pranitchilbule1@gmail.com**
+- ⚡ Fun fact: **I debug code faster than I can find matching socks in the morning!**
+
+<!-- Animated Wave Divider -->
+<img src="https://raw.githubusercontent.com/trinib/trinib/main/.images/snake.svg" width="100%">
+
+## 🛠️ My Tech Universe
+
+### 🧠 AI & ML Ecosystem
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="30" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" height="30" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/scikit_learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" height="30" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" height="30" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" height="30" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" height="30" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Keras-D00000?style=flat-square&logo=keras&logoColor=white" height="30" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" height="30" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black" height="30" /></a>
+</p>
+
+### 🌐 Web Development Arsenal
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" height="30" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" height="30" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" height="30" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" height="30" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="30" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" height="30" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" height="30" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwind-css&logoColor=white" height="30" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" height="30" /></a>
+</p>
+
+### 🔧 Development Toolbox
+
+<p align="center">
+  <a href="#"><img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" height="30" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" height="30" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" height="30" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" height="30" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white" height="30" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" height="30" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" height="30" /></a>
+</p>
+
+## 💻 Programming Proficiency
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/a5f17399d881c5651cbaed7aab1cc4762705432a/.images/standard.gif" width="100%">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pranit144&theme=tokyonight&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117" alt="Languages" width="70%"/>
 </div>
 
-<!-- Matrix Digital Rain Effect Separator -->
+```text
+Python       ████████████████████░░   90%
+JavaScript   ██████████████████░░░░   85%
+C++          ███████████████░░░░░░░   75%
+Java         ████████████████░░░░░░   80%
+HTML/CSS     █████████████████████░   95%
+```
+
+## 🚀 Featured Digital Creations
+
 <div align="center">
-  <img src="https://raw.githubusercontent.com/trinib/trinib/82213791fa9ff58d3ca768ddd6de2489ec23ffca/images/footer.svg" width="100%">
+  
+### 🤖 AI Vision Assistant
+Advanced computer vision application that helps users identify objects in real-time using state-of-the-art deep learning models.
+
+**Tech:** Python, TensorFlow, OpenCV, Flask
+
+[![View Project](https://img.shields.io/badge/View_Project-6842F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranit144/Project1)
+
+### 🌐 FullStack E-Learning Platform
+A comprehensive platform for online education featuring video courses, interactive quizzes, and AI-powered learning path recommendations.
+
+**Tech:** MERN Stack, Redux, JWT Auth, AWS S3
+
+[![View Project](https://img.shields.io/badge/View_Project-6842F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranit144/Project2)
+
+[![Explore All Projects](https://img.shields.io/badge/Explore_All_Projects-6842F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranit144?tab=repositories)
 </div>
 
-## 👨‍💻 The Mind Behind The Code
+## 📊 Performance Metrics
 
-<div>
-  <img align="right" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9ndjZlYjBkemdxc2hzdGF2MHhlN2t5dXc2OXVzZndsajhveXV4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" />
-
-  <!-- Holographic Profile Card - Extremely Cool! -->
-  <div style="padding: 20px; background: linear-gradient(45deg, #6842F7, #FF1493, #6842F7); border-radius: 15px; box-shadow: 0 10px 25px rgba(104, 66, 247, 0.7); margin-bottom: 20px;">
-    <h3 style="color: white; text-shadow: 0 0 5px #6842F7;">System Specifications:</h3>
-    <table>
-      <tr>
-        <td><b>🧠 OS:</b></td>
-        <td>Homo Sapiens v2.0</td>
-      </tr>
-      <tr>
-        <td><b>💻 Processor:</b></td>
-        <td>Neural Network Cortex i9</td>
-      </tr>
-      <tr>
-        <td><b>🔋 Power Source:</b></td>
-        <td>Caffeine + Motivation</td>
-      </tr>
-      <tr>
-        <td><b>💾 Storage:</b></td>
-        <td>Unlimited Ideas + B.Tech in AI/ML</td>
-      </tr>
-      <tr>
-        <td><b>🔄 Currently Running:</b></td>
-        <td>DeepLearning.exe, WebDev.js</td>
-      </tr>
-      <tr>
-        <td><b>🛠️ Debugging Tool:</b></td>
-        <td>Rubber Duck v3.5</td>
-      </tr>
-    </table>
-  </div>
-
-  > "I don't just write code, I compose digital symphonies that solve real-world problems."
-
-  <!-- Interactive ASCII Art - This is mind-blowing! -->
-  ```
-  ┌─────────────────────────────────────────────────────────────┐
-  │                                                             │
-  │   █▀█ █▀█ ▄▀█ █▄░█ █ ▀█▀   █▀▀ █░█ █ █░░ █▄▄ █░█ █░░ █▀▀   │
-  │   █▀▀ █▀▄ █▀█ █░▀█ █ ░█░   █▄▄ █▀█ █ █▄▄ █▄█ █▄█ █▄▄ ██▄   │
-  │                                                             │
-  └─────────────────────────────────────────────────────────────┘
-  ```
-</div>
-
-<!-- Animated Digital Circuit Board Divider -->
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranit144&theme=tokyonight" width="100%"/>
+  
+  <p align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=pranit144&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&ring_color=6842F7&icon_color=6842F7" width="49%" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranit144&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&fire=6842F7&ring=6842F7&currStreakLabel=6842F7" width="49%" />
+  </p>
 </div>
 
-<!-- Interactive Tech Matrix - Looks Like Something From a Sci-Fi Movie! -->
-<div align="center">
-  <h2>🔮 TECHNOLOGY MATRIX</h2>
-  
-  <table>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="Python" width="65" height="65" />
-        <br>Python
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="JavaScript" width="65" height="65" />
-        <br>JavaScript
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/cpp-icon.svg" alt="C++" width="65" height="65" />
-        <br>C++
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="Django" width="65" height="65" />
-        <br>Django
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/react-icon.svg" alt="React" width="65" height="65" />
-        <br>React
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="MySQL" width="65" height="65" />
-        <br>MySQL
-      </td>
-    </tr>
-    <tr>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/aws-icon.svg" alt="AWS" width="65" height="65" />
-        <br>AWS
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="GitHub" width="65" height="65" />
-        <br>GitHub
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="65" height="65" />
-        <br>Docker
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="Nginx" width="65" height="65" />
-        <br>Nginx
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/java-icon.svg" alt="Java" width="65" height="65" />
-        <br>Java
-      </td>
-      <td align="center" width="96">
-        <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="REST API" width="65" height="65" />
-        <br>REST API
-      </td>
-    </tr>
-  </table>
-  
-  <!-- AI/ML Specific Skills with Futuristic Design -->
-  <h3>🧠 AI/ML NEURAL NETWORK</h3>
-  
-  <div style="display: flex; align-items: center; justify-content: center; flex-wrap: wrap; gap: 10px; margin: 20px 0;">
-    <!-- AI Skills with Pulsing Animation Effect -->
-    <a href="#"><img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?&style=for-the-badge&logo=TensorFlow&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?&style=for-the-badge&logo=PyTorch&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Scikit--Learn-%23F7931E.svg?&style=for-the-badge&logo=scikit-learn&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Pandas-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Keras-%23D00000.svg?&style=for-the-badge&logo=Keras&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/OpenCV-%235C3EE8.svg?&style=for-the-badge&logo=OpenCV&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Hugging_Face-%23FFD21E.svg?&style=for-the-badge&logo=huggingface&logoColor=black" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/NLTK-%234ea94b.svg?&style=for-the-badge&logo=python&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/Computer_Vision-%23FF6F61.svg?&style=for-the-badge&logo=opencv&logoColor=white" /></a>
-    <a href="#"><img src="https://img.shields.io/badge/NLP-%2347A248.svg?&style=for-the-badge&logo=natural-language-processing&logoColor=white" /></a>
-  </div>
-</div>
+## 🌐 Digital Network
 
-<!-- 3D Projects Showcase - Absolutely Revolutionary! -->
 <div align="center">
-  <h2>🚀 DIGITAL LABORATORY EXPERIMENTS</h2>
-  
-  <!-- Project Cards with Holographic Effect -->
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 20px;">
-    <!-- AI Project -->
-    <div style="width: 31%; min-width: 300px; background: linear-gradient(135deg, #000428, #004e92); padding: 20px; border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); position: relative; overflow: hidden;">
-      <div style="position: absolute; top: 0; left: 0; right: 0; height: 5px; background: linear-gradient(90deg, #6842F7, #FF1493, #6842F7); background-size: 200% 200%; animation: gradient 2s ease infinite;"></div>
-      <h3 style="color: #fff; margin-top: 10px;">🤖 NeuralVision AI</h3>
-      <p style="color: #ccc;">Advanced computer vision system capable of identifying objects, faces, and actions in real-time with 99.7% accuracy.</p>
-      <div style="display: flex; flex-wrap: wrap; gap: 5px; margin: 15px 0;">
-        <span style="background: rgba(104, 66, 247, 0.2); color: #6842F7; padding: 5px 10px; border-radius: 15px; font-size: 12px;">TensorFlow</span>
-        <span style="background: rgba(104, 66, 247, 0.2); color: #6842F7; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Computer Vision</span>
-        <span style="background: rgba(104, 66, 247, 0.2); color: #6842F7; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Flask API</span>
-      </div>
-      <a href="https://github.com/pranit144/Project1">
-        <img src="https://img.shields.io/badge/View_Experiment-6842F7?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-      </a>
-    </div>
-    
-    <!-- Web Project -->
-    <div style="width: 31%; min-width: 300px; background: linear-gradient(135deg, #000428, #004e92); padding: 20px; border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); position: relative; overflow: hidden;">
-      <div style="position: absolute; top: 0; left: 0; right: 0; height: 5px; background: linear-gradient(90deg, #6842F7, #FF1493, #6842F7); background-size: 200% 200%; animation: gradient 2s ease infinite;"></div>
-      <h3 style="color: #fff; margin-top: 10px;">🌐 QuantumLearn</h3>
-      <p style="color: #ccc;">Revolutionary e-learning platform with AI-powered personalized learning paths and real-time progress tracking.</p>
-      <div style="display: flex; flex-wrap: wrap; gap: 5px; margin: 15px 0;">
-        <span style="background: rgba(104, 66, 247, 0.2); color: #6842F7; padding: 5px 10px; border-radius: 15px; font-size: 12px;">MERN Stack</span>
-        <span style="background: rgba(104, 66, 247, 0.2); color: #6842F7; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Redux</span>
-        <span style="background: rgba(104, 66, 247, 0.2); color: #6842F7; padding: 5px 10px; border-radius: 15px; font-size: 12px;">AWS</span>
-      </div>
-      <a href="https://github.com/pranit144/Project2">
-        <img src="https://img.shields.io/badge/View_Experiment-6842F7?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-      </a>
-    </div>
-    
-    <!-- ML Project -->
-    <div style="width: 31%; min-width: 300px; background: linear-gradient(135deg, #000428, #004e92); padding: 20px; border-radius: 20px; box-shadow: 0 10px 30px rgba(0,0,0,0.5); position: relative; overflow: hidden;">
-      <div style="position: absolute; top: 0; left: 0; right: 0; height: 5px; background: linear-gradient(90deg, #6842F7, #FF1493, #6842F7); background-size: 200% 200%; animation: gradient 2s ease infinite;"></div>
-      <h3 style="color: #fff; margin-top: 10px;">🧬 GenomePredictor</h3>
-      <p style="color: #ccc;">ML-powered genetic analysis tool that can predict protein structures and genetic predispositions from genomic data.</p>
-      <div style="display: flex; flex-wrap: wrap; gap: 5px; margin: 15px 0;">
-        <span style="background: rgba(104, 66, 247, 0.2); color: #6842F7; padding: 5px 10px; border-radius: 15px; font-size: 12px;">PyTorch</span>
-        <span style="background: rgba(104, 66, 247, 0.2); color: #6842F7; padding: 5px 10px; border-radius: 15px; font-size: 12px;">BioPython</span>
-        <span style="background: rgba(104, 66, 247, 0.2); color: #6842F7; padding: 5px 10px; border-radius: 15px; font-size: 12px;">Django</span>
-      </div>
-      <a href="https://github.com/pranit144/Project3">
-        <img src="https://img.shields.io/badge/View_Experiment-6842F7?style=for-the-badge&logo=github&logoColor=white" alt="View Project"/>
-      </a>
-    </div>
-  </div>
-  
-  <br/>
-  <a href="https://github.com/pranit144?tab=repositories">
-    <img src="https://img.shields.io/badge/Access_All_Experiments-6842F7?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
+  <a href="https://www.linkedin.com/in/pranit-chilbule" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" height="35" alt="LinkedIn" />
+  </a>
+  <a href="mailto:pranitchilbule1@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" height="35" alt="Gmail" />
+  </a>
+  <a href="https://github.com/pranit144">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="35" alt="GitHub" />
+  </a>
+  <a href="https://twitter.com/YourTwitterHandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" height="35" alt="Twitter" />
+  </a>
+  <a href="https://dev.to/YourDevToHandle">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=0A0A0A" height="35" alt="Dev.to" />
   </a>
 </div>
 
-<!-- Futuristic Code Activity Dashboard -->
-<div align="center">
-  <h2>⚡ SYSTEM PERFORMANCE METRICS</h2>
+## 🎧 Coding to the Rhythm
 
-  <!-- 3D GitHub Stats Dashboard -->
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=pranit144&theme=radical" width="100%"/>
+<div align="center">
   
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 10px; margin-top: 20px;">
-    <!-- Animated GitHub Stats Card with Glowing Effect -->
-    <img src="https://github-readme-stats.vercel.app/api?username=pranit144&show_icons=true&count_private=true&theme=radical&title_color=6842F7&icon_color=FF1493&text_color=FFFFFF&bg_color=0D1117&hide_border=true&border_radius=20&ring_color=6842F7" width="49%" />
-    
-    <!-- GitHub Streak Card with Matching Theme -->
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=pranit144&theme=radical&hide_border=true&background=0D1117&stroke=0D1117&fire=FF1493&ring=6842F7&currStreakLabel=6842F7" width="49%" />
-  </div>
-  
-  <!-- Radar Chart of Skills - Looks Like Something From Iron Man's HUD -->
-  <img src="https://cr-skills-chart-widget.azurewebsites.net/api/api?username=pranit144&skills=JavaScript,TypeScript,React,Python,Java,C%2B%2B&width=820" width="70%" />
-  
-  <!-- 3D Contribution Calendar -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=pranit144&bg_color=0D1117&color=FF1493&line=6842F7&point=FFFFFF&area=true&area_color=6842F7&hide_border=true" width="100%" />
+[![Spotify](https://novatorem-pranit144.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
 </div>
 
-<!-- Digital Trophies Gallery -->
+## 💭 Code Philosophy
+
 <div align="center">
-  <h2>🏆 ACHIEVEMENT UNLOCKED</h2>
   
-  <!-- Trophy Case with Glowing Effect -->
-  <img src="https://github-profile-trophy.vercel.app/?username=pranit144&theme=radical&no-frame=true&column=4&margin-w=15&margin-h=15" width="100%" />
+```
+"The function of good software is to make the complex appear to be simple." — Grady Booch
+```
+  
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
-<!-- Interactive Contact Section - Looks Like a Futuristic Control Panel -->
-<div align="center">
-  <h2>📡 ESTABLISH CONNECTION</h2>
-  
-  <!-- Animated Contact Icons -->
-  <div style="display: flex; justify-content: center; flex-wrap: wrap; gap: 15px; margin: 20px 0;">
-    <a href="https://www.linkedin.com/in/pranit-chilbule" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0077B5" height="40" alt="LinkedIn" />
-    </a>
-    <a href="mailto:pranitchilbule1@gmail.com">
-      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" height="40" alt="Gmail" />
-    </a>
-    <a href="https://github.com/pranit144">
-      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="40" alt="GitHub" />
-    </a>
-    <a href="https://twitter.com/YourTwitter">
-      <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" height="40" alt="Twitter" />
-    </a>
-    <a href="https://instagram.com/YourInstagram">
-      <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=E4405F" height="40" alt="Instagram" />
-    </a>
-  </div>
-</div>
+## 👋 Let's Create Something Amazing Together
 
-<!-- Spotify Widget with Holographic Animation -->
 <div align="center">
-  <h2>🎧 AUDIO TRANSMISSION</h2>
-  
-  <!-- Spotify Dynamic Song Display -->
-  <a href="https://open.spotify.com/user/YOUR_SPOTIFY_ID">
-    <img src="https://novatorem-pranit144.vercel.app/api/spotify" width="60%" />
+  <a href="mailto:pranitchilbule1@gmail.com">
+    <img src="https://img.shields.io/badge/Start_a_Project-6842F7?style=for-the-badge&logo=mail.ru&logoColor=white" alt="Start a Project"/>
   </a>
-</div>
-
-<!-- Interactive Visitor Counter with Animated Digital Display -->
-<div align="center">
-  <h2>👾 VISITOR LOG</h2>
   
-  <!-- Digital Counter with Glitch Effect -->
-  <img src="https://profile-counter.glitch.me/pranit144/count.svg" alt="Visitor Count" />
+  <p>⬇️ Check out my pinned repositories below ⬇️</p>
   
-  <!-- Retro Game Visitors Counter (Super Cool!) -->
-  <img src="https://komarev.com/ghpvc/?username=pranit144&style=flat-square&color=6842F7&label=PROFILE+VIEWS" alt="Profile views" />
-</div>
-
-<!-- Interactive Quotes Section -->
-<div align="center">
-  <h2>💭 NEURAL OUTPUT</h2>
-  
-  ```
-  "In a world of 0s and 1s, creativity is the algorithm that makes us infinite." - Pranit Chilbule
-  ```
-  
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Dev Quote"/>
-</div>
-
-<!-- Call to Action Terminal -->
-<div align="center">
-  <pre style="background-color: #0D1117; padding: 20px; border-radius: 10px; color: #FFFFFF; text-align: left; max-width: 600px; margin: 0 auto;">
-    <code>
-$ ssh pranit@digital-lab.dev
-> Connecting to Pranit's Digital Lab...
-> Connection established!
-> Authentication required:
-
-$ collaborate --project="your-idea"
-> Initiating collaboration sequence...
-> Ready to build something revolutionary together!
-
-$ cat message.txt
-> "Let's create something that changes the world, one line of code at a time."
-
-$ exit
-> Connection will remain open for future innovations...
-    </code>
-  </pre>
-</div>
-
-<!-- Futuristic Animated Footer -->
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,30,97,108,36&height=150&section=footer&animation=twinkling&fontAlignY=80&text=Coding%20the%20Future&fontSize=40&fontColor=FFFFFF" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,30,97,108&height=120&section=footer" width="100%"/>
 </div>
