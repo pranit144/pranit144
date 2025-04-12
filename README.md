@@ -24,24 +24,49 @@
 
 <img align="right" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9ndjZlYjBkemdxc2hzdGF2MHhlN2t5dXc2OXVzZndsajhveXV4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" />
 
-```python
-class PranitChilbule:
-    def __init__(self):
-        self.name = "Pranit Chilbule"
-        self.education = "B.Tech - Artificial Intelligence & ML"
-        self.role = "AI Engineer & MERN Developer"
-        self.location = "India"
-        self.languages = ["Python", "JavaScript", "C++", "Java"]
-        self.interests = ["Machine Learning", "Web Development", 
-                         "Problem Solving", "Innovation"]
-        self.current_focus = "Deep Learning & MERN Stack"
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together!")
+<div align="left">
+  <img src="https://img.shields.io/badge/Python-Enthusiast-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+  <img src="https://img.shields.io/badge/Machine_Learning-Passionate-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="ML">
+  <img src="https://img.shields.io/badge/MERN-Developer-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="MERN">
+  <img src="https://img.shields.io/badge/Problem-Solver-4EAA25?style=for-the-badge&logo=leetcode&logoColor=white" alt="Problem Solver">
+</div>
 
-me = PranitChilbule()
-me.say_hi()
-```
+<div align="left" style="margin-top: 20px;">
+  <table>
+    <tr>
+      <td><b>Name:</b></td>
+      <td>Pranit Chilbule</td>
+    </tr>
+    <tr>
+      <td><b>Education:</b></td>
+      <td>B.Tech - Artificial Intelligence & ML</td>
+    </tr>
+    <tr>
+      <td><b>Role:</b></td>
+      <td>AI Engineer & MERN Developer</td>
+    </tr>
+    <tr>
+      <td><b>Location:</b></td>
+      <td>India</td>
+    </tr>
+    <tr>
+      <td><b>Languages:</b></td>
+      <td>Python, JavaScript, C++, Java</td>
+    </tr>
+    <tr>
+      <td><b>Interests:</b></td>
+      <td>Machine Learning, Web Development, Problem Solving, Innovation</td>
+    </tr>
+    <tr>
+      <td><b>Current Focus:</b></td>
+      <td>Deep Learning & MERN Stack</td>
+    </tr>
+    <tr>
+      <td><b>Message:</b></td>
+      <td><i>"Thanks for dropping by! Let's build something amazing together!"</i></td>
+    </tr>
+  </table>
+</div>
 
 > "I transform complex problems into elegant solutions, one line of code at a time."
 
@@ -103,13 +128,50 @@ me.say_hi()
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranit144&theme=tokyonight&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117" alt="Languages" width="70%"/>
 </div>
 
-```text
-Python       ████████████████████░░   90%
-JavaScript   ██████████████████░░░░   85%
-C++          ███████████████░░░░░░░   75%
-Java         ████████████████░░░░░░   80%
-HTML/CSS     █████████████████████░   95%
-```
+<div align="center">
+  <table>
+    <tr>
+      <th>Language</th>
+      <th>Proficiency</th>
+      <th>Level</th>
+    </tr>
+    <tr>
+      <td>Python</td>
+      <td>
+        <img src="https://progress-bar.dev/90/?width=400&color=6842F7" alt="90%">
+      </td>
+      <td>Expert</td>
+    </tr>
+    <tr>
+      <td>JavaScript</td>
+      <td>
+        <img src="https://progress-bar.dev/85/?width=400&color=6842F7" alt="85%">
+      </td>
+      <td>Advanced</td>
+    </tr>
+    <tr>
+      <td>C++</td>
+      <td>
+        <img src="https://progress-bar.dev/75/?width=400&color=6842F7" alt="75%">
+      </td>
+      <td>Proficient</td>
+    </tr>
+    <tr>
+      <td>Java</td>
+      <td>
+        <img src="https://progress-bar.dev/80/?width=400&color=6842F7" alt="80%">
+      </td>
+      <td>Advanced</td>
+    </tr>
+    <tr>
+      <td>HTML/CSS</td>
+      <td>
+        <img src="https://progress-bar.dev/95/?width=400&color=6842F7" alt="95%">
+      </td>
+      <td>Expert</td>
+    </tr>
+  </table>
+</div>
 
 ## 🚀 Featured Digital Creations
 
