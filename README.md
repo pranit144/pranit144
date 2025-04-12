@@ -34,36 +34,54 @@
 <div align="left" style="margin-top: 20px;">
   <table>
     <tr>
-      <td><b>Name:</b></td>
-      <td>Pranit Chilbule</td>
+      <th colspan="2" align="center">
+        <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=24&duration=3000&pause=1000&color=6842F7&center=true&vCenter=true&random=false&width=500&lines=About+The+Digital+Architect" alt="About Me Header" />
+      </th>
     </tr>
     <tr>
-      <td><b>Education:</b></td>
-      <td>B.Tech - Artificial Intelligence & ML</td>
+      <td><img src="https://img.shields.io/badge/👤-Name-6842F7?style=for-the-badge" alt="Name Badge"/></td>
+      <td><b>Pranit Chilbule</b></td>
     </tr>
     <tr>
-      <td><b>Role:</b></td>
-      <td>AI Engineer & MERN Developer</td>
+      <td><img src="https://img.shields.io/badge/🎓-Education-6842F7?style=for-the-badge" alt="Education Badge"/></td>
+      <td><b>B.Tech - Artificial Intelligence & ML</b></td>
     </tr>
     <tr>
-      <td><b>Location:</b></td>
-      <td>India</td>
+      <td><img src="https://img.shields.io/badge/💼-Role-6842F7?style=for-the-badge" alt="Role Badge"/></td>
+      <td><b>AI Engineer & MERN Developer</b></td>
     </tr>
     <tr>
-      <td><b>Languages:</b></td>
-      <td>Python, JavaScript, C++, Java</td>
+      <td><img src="https://img.shields.io/badge/📍-Location-6842F7?style=for-the-badge" alt="Location Badge"/></td>
+      <td><b>India</b> <img src="https://img.shields.io/badge/🇮🇳-flag-orange?style=flat" height="20" alt="India Flag"/></td>
     </tr>
     <tr>
-      <td><b>Interests:</b></td>
-      <td>Machine Learning, Web Development, Problem Solving, Innovation</td>
+      <td><img src="https://img.shields.io/badge/💻-Languages-6842F7?style=for-the-badge" alt="Languages Badge"/></td>
+      <td>
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" height="22" alt="Python"/>
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" height="22" alt="JavaScript"/>
+        <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white" height="22" alt="C++"/>
+        <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white" height="22" alt="Java"/>
+      </td>
     </tr>
     <tr>
-      <td><b>Current Focus:</b></td>
-      <td>Deep Learning & MERN Stack</td>
+      <td><img src="https://img.shields.io/badge/🔍-Interests-6842F7?style=for-the-badge" alt="Interests Badge"/></td>
+      <td>
+        <img src="https://img.shields.io/badge/Machine_Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" height="22" alt="ML"/>
+        <img src="https://img.shields.io/badge/Web_Development-61DAFB?style=flat-square&logo=react&logoColor=black" height="22" alt="Web Dev"/>
+        <img src="https://img.shields.io/badge/Problem_Solving-FFA116?style=flat-square&logo=leetcode&logoColor=black" height="22" alt="Problem Solving"/>
+        <img src="https://img.shields.io/badge/Innovation-000000?style=flat-square&logo=vercel&logoColor=white" height="22" alt="Innovation"/>
+      </td>
     </tr>
     <tr>
-      <td><b>Message:</b></td>
-      <td><i>"Thanks for dropping by! Let's build something amazing together!"</i></td>
+      <td><img src="https://img.shields.io/badge/🎯-Current_Focus-6842F7?style=for-the-badge" alt="Current Focus Badge"/></td>
+      <td>
+        <img src="https://img.shields.io/badge/Deep_Learning-DD0031?style=flat-square&logo=pytorch&logoColor=white" height="22" alt="Deep Learning"/>
+        <img src="https://img.shields.io/badge/MERN_Stack-00D8FF?style=flat-square&logo=react&logoColor=white" height="22" alt="MERN Stack"/>
+      </td>
+    </tr>
+    <tr>
+      <td><img src="https://img.shields.io/badge/💬-Message-6842F7?style=for-the-badge" alt="Message Badge"/></td>
+      <td><i>"Thanks for dropping by! Let's build something amazing together!"</i> ✨</td>
     </tr>
   </table>
 </div>
