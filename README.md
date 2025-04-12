@@ -24,10 +24,9 @@
 
 <img align="right" width="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9ndjZlYjBkemdxc2hzdGF2MHhlN2t5dXc2OXVzZndsajhveXV4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" />
 
-
 ```python
 class PranitChilbule:
-    def __init__(self):  # Using the correct double underscores
+    def __init__(self):
         self.name = "Pranit Chilbule"
         self.education = "B.Tech - Artificial Intelligence & ML"
         self.role = "AI Engineer & MERN Developer"
@@ -42,7 +41,6 @@ class PranitChilbule:
 
 me = PranitChilbule()
 me.say_hi()
-```
 ```
 
 > "I transform complex problems into elegant solutions, one line of code at a time."
@@ -102,7 +100,7 @@ me.say_hi()
 ## 💻 Programming Proficiency
 
 <div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pranit144&theme=tokyonight&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117" alt="Languages" width="70%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranit144&theme=tokyonight&layout=compact&langs_count=10&hide_border=true&bg_color=0D1117" alt="Languages" width="70%"/>
 </div>
 
 ```text
@@ -122,14 +120,14 @@ Advanced computer vision application that helps users identify objects in real-t
 
 **Tech:** Python, TensorFlow, OpenCV, Flask
 
-[![View Project](https://img.shields.io/badge/View_Project-6842F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranit144/Project1)
+[![View Project](https://img.shields.io/badge/View_Project-6842F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranit144/AI-Vision-Assistant)
 
 ### 🌐 FullStack E-Learning Platform
 A comprehensive platform for online education featuring video courses, interactive quizzes, and AI-powered learning path recommendations.
 
 **Tech:** MERN Stack, Redux, JWT Auth, AWS S3
 
-[![View Project](https://img.shields.io/badge/View_Project-6842F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranit144/Project2)
+[![View Project](https://img.shields.io/badge/View_Project-6842F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranit144/E-Learning-Platform)
 
 [![Explore All Projects](https://img.shields.io/badge/Explore_All_Projects-6842F7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/pranit144?tab=repositories)
 </div>
@@ -157,20 +155,21 @@ A comprehensive platform for online education featuring video courses, interacti
   <a href="https://github.com/pranit144">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" height="35" alt="GitHub" />
   </a>
-  <a href="https://twitter.com/YourTwitterHandle">
+  <a href="https://twitter.com/PranitChilbule">
     <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2" height="35" alt="Twitter" />
   </a>
-  <a href="https://dev.to/YourDevToHandle">
+  <a href="https://dev.to/pranit144">
     <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white&labelColor=0A0A0A" height="35" alt="Dev.to" />
   </a>
 </div>
 
+<!-- Uncomment and update with your Spotify user ID when ready
 ## 🎧 Coding to the Rhythm
 
 <div align="center">
-  
-[![Spotify](https://novatorem-pranit144.vercel.app/api/spotify)](https://open.spotify.com/user/YOUR_SPOTIFY_ID)
+  [![Spotify](https://novatorem-spotify.vercel.app/api/spotify?background_color=0D1117&border_color=ffffff)](https://open.spotify.com/user/YOUR_SPOTIFY_ID_HERE)
 </div>
+-->
 
 ## 💭 Code Philosophy
 
