@@ -26,7 +26,7 @@
   <img align="right" width="350" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExNG9ndjZlYjBkemdxc2hzdGF2MHhlN2t5dXc2OXVzZndsajhveXV4OSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.gif" alt="Coding Animation" />
 </div>
 
-<table>
+<table  width="350">
   <tr>
     <td><img src="https://img.shields.io/badge/👤-Name-6842F7?style=for-the-badge" alt="Name" /></td>
     <td><b>Pranit Chilbule</b></td>
