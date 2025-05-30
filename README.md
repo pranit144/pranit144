@@ -8,8 +8,42 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=6842F7&center=true&vCenter=true&random=false&width=600&lines=Welcome+to+my+Coding+Universe!;AI%2FML+Engineering+Student;Full+Stack+Web+Developer;Problem+Solver+%26+Innovator" alt="Typing SVG" /></a>
 </div>
 
+<!-- Portfolio Showcase Banner -->
+<div align="center">
+  <h2>🌟 Explore My Digital Portfolio 🌟</h2>
+  
+  <!-- Glowing Portfolio Button -->
+  <a href="https://huggingface.co/spaces/pranit144/PRANIT_CHILBULE" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_LIVE_PORTFOLIO-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white&labelColor=FF6B6B&color=4ECDC4" alt="Live Portfolio" />
+  </a>
+  
+  <br><br>
+  
+  <!-- Portfolio Description with Animation -->
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=2000&color=FF6B6B&center=true&vCenter=true&random=false&width=800&lines=🎯+Interactive+AI%2FML+Portfolio+Experience;💼+Powered+by+HuggingFace+Spaces;✨+Click+Above+to+Explore+My+Journey!" alt="Portfolio Typing SVG" />
+  </a>
+  
+  <!-- Enhanced Portfolio Buttons Row -->
+  <div style="margin: 20px 0;">
+    <a href="https://huggingface.co/spaces/pranit144/PRANIT_CHILBULE" target="_blank">
+      <img src="https://img.shields.io/badge/🤖_HuggingFace_Space-FFD700?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=FFD700" alt="HuggingFace Portfolio" />
+    </a>
+    <a href="https://huggingface.co/spaces/pranit144/PRANIT_CHILBULE" target="_blank">
+      <img src="https://img.shields.io/badge/💡_AI_Projects-9C27B0?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=9C27B0" alt="AI Projects" />
+    </a>
+    <a href="https://huggingface.co/spaces/pranit144/PRANIT_CHILBULE" target="_blank">
+      <img src="https://img.shields.io/badge/🎨_Interactive_Demos-FF5722?style=for-the-badge&logo=python&logoColor=white&labelColor=FF5722" alt="Interactive Demos" />
+    </a>
+  </div>
+</div>
 
- ## 👨‍💻 About Me  
+<!-- Horizontal Divider -->
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+</div>
+
+## 👨‍💻 About Me  
 
 <!-- About Me Section with Animated GIF -->
 <div>
@@ -37,18 +71,22 @@
     <td><b>💡 Motto:</b></td>
     <td>Creating solutions one line<br> of code at a time</td>
   </tr>
+  <tr>
+    <td><b>🌐 Portfolio:</b></td>
+    <td><a href="https://huggingface.co/spaces/pranit144/PRANIT_CHILBULE">Live AI/ML Demos</a></td>
+  </tr>
 </table>
 
+</div>
+<br>
+<br>
+- 🔭 I'm currently working on ML Models & Full-Stack Web Applications<br>
+- 🌱 I'm exploring the depths of AI & Data Science<br>
+- 💬 Let's connect and collaborate on Python, React, and ML Algorithms<br>
+- 📧 Reach me at: pranitchilbule1@gmail.com<br>
+- 🌟 Check out my projects: [GitHub Repositories](https://github.com/pranit144?tab=repositories)<br>
+- 🚀 Experience my work: [Interactive Portfolio](https://huggingface.co/spaces/pranit144/PRANIT_CHILBULE)
 
-  </div>
-  <br>
-  <br>
-  - 🔭 I'm currently working on ML Models & Full-Stack Web Applications<br>
-  - 🌱 I'm exploring the depths of AI & Data Science<br>
-  - 💬 Let's connect and collaborate on Python, React, and ML Algorithms<br>
-  - 📧 Reach me at: pranitchilbule1@gmail.com<br>
-  - 🌟 Check out my projects: [GitHub Repositories](https://github.com/pranit144?tab=repositories)
-  
 </div>
 
 <!-- Horizontal Divider -->
@@ -69,7 +107,9 @@
   <a href="https://github.com/pranit144">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717" alt="GitHub" />
   </a>
-  <!-- You can add more social links here -->
+  <a href="https://huggingface.co/spaces/pranit144/PRANIT_CHILBULE" target="_blank">
+    <img src="https://img.shields.io/badge/🤗_Portfolio-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black&labelColor=FFD21E" alt="HuggingFace Portfolio" />
+  </a>
 </div>
 
 <!-- Horizontal Divider -->
@@ -126,6 +166,36 @@
     <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code"/>
     <img src="https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter"/>
   </p>
+</div>
+
+<!-- Call-to-Action Portfolio Section -->
+<div align="center">
+  <h2>🎯 Experience My Work in Action</h2>
+  
+  <div style="background: linear-gradient(45deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
+    <h3 style="color: white; margin: 0;">🚀 Interactive AI/ML Portfolio</h3>
+    <p style="color: white; margin: 10px 0;">Dive into my collection of live AI models, interactive demos, and innovative projects!</p>
+    
+    <a href="https://huggingface.co/spaces/pranit144/PRANIT_CHILBULE" target="_blank">
+      <img src="https://img.shields.io/badge/🌟_EXPLORE_NOW-FF4081?style=for-the-badge&logo=rocket&logoColor=white&labelColor=FF4081&color=E91E63" alt="Explore Portfolio" />
+    </a>
+  </div>
+  
+  <!-- Feature highlights -->
+  <div style="display: flex; justify-content: center; gap: 20px; margin: 20px 0;">
+    <div style="text-align: center;">
+      <h4>🤖 AI Models</h4>
+      <p>Interactive ML demos</p>
+    </div>
+    <div style="text-align: center;">
+      <h4>💻 Web Apps</h4>
+      <p>Full-stack projects</p>
+    </div>
+    <div style="text-align: center;">
+      <h4>🎨 UI/UX</h4>
+      <p>Modern interfaces</p>
+    </div>
+  </div>
 </div>
 
 <!-- Horizontal Divider -->
@@ -191,6 +261,15 @@
 <div align="center">
   <h2>🚀 Featured Projects</h2>
   
+  <!-- Portfolio highlight card -->
+  <div style="margin: 20px 0; padding: 20px; border: 2px solid #6842F7; border-radius: 15px;">
+    <h3>🌟 Featured: Interactive AI/ML Portfolio</h3>
+    <p>Experience my projects through live demos and interactive interfaces</p>
+    <a href="https://huggingface.co/spaces/pranit144/PRANIT_CHILBULE" target="_blank">
+      <img src="https://img.shields.io/badge/🚀_Live_Demo-6842F7?style=for-the-badge&logo=huggingface&logoColor=white" alt="Live Demo"/>
+    </a>
+  </div>
+  
   <p align="center">
     <a href="https://github.com/pranit144/Project1">
       <img width="49%" src="https://github-readme-stats.vercel.app/api/pin/?username=pranit144&repo=Project1&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Project 1"/>
@@ -200,10 +279,15 @@
     </a>
   </p>
   
-  <!-- Add more featured projects if needed -->
-  <a href="https://github.com/pranit144?tab=repositories">
-    <img src="https://img.shields.io/badge/View_All_Projects-6842F7?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
-  </a>
+  <!-- Enhanced project navigation -->
+  <div style="margin: 20px 0;">
+    <a href="https://github.com/pranit144?tab=repositories">
+      <img src="https://img.shields.io/badge/📚_All_GitHub_Projects-6842F7?style=for-the-badge&logo=github&logoColor=white" alt="View All Projects"/>
+    </a>
+    <a href="https://huggingface.co/spaces/pranit144/PRANIT_CHILBULE" target="_blank">
+      <img src="https://img.shields.io/badge/🎯_Live_Portfolio-FF6B6B?style=for-the-badge&logo=rocket&logoColor=white" alt="Live Portfolio"/>
+    </a>
+  </div>
 </div>
 
 <!-- Horizontal Divider -->
@@ -217,7 +301,12 @@
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote"/>
 </div>
 
-<!-- Footer -->
+<!-- Footer with Portfolio CTA -->
 <div align="center">
+  <h3>🌟 Ready to explore my digital universe? 🌟</h3>
+  <a href="https://huggingface.co/spaces/pranit144/PRANIT_CHILBULE" target="_blank">
+    <img src="https://img.shields.io/badge/🚀_VISIT_MY_PORTFOLIO-FF4081?style=for-the-badge&logo=rocket&logoColor=white&labelColor=FF4081&color=E91E63" alt="Visit Portfolio" />
+  </a>
+  <br><br>
   <img src="https://capsule-render.vercel.app/api?type=waving&color=6842F7&height=120&section=footer" width="100%"/>
 </div>
