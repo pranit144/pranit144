@@ -175,10 +175,10 @@
   <div style="background: linear-gradient(45deg, #667eea 0%, #764ba2 100%); padding: 20px; border-radius: 15px; margin: 20px 0;">
     <h3 style="color: white; margin: 0;">🚀 Interactive AI/ML Portfolio</h3>
     <p style="color: white; margin: 10px 0;">Dive into my collection of live AI models, interactive demos, and innovative projects!</p>
-    
-    <a href="https://huggingface.co/spaces/pranit144/PRANIT_CHILBULE" target="_blank">
+     <a href="https://huggingface.co/spaces/pranit144/PRANIT_CHILBULE" target="_blank">
       <img src="https://img.shields.io/badge/🌟_EXPLORE_NOW-FF4081?style=for-the-badge&logo=rocket&logoColor=white&labelColor=FF4081&color=E91E63" alt="Explore Portfolio" />
     </a>
+   
   </div>
   
   <!-- Feature highlights -->
