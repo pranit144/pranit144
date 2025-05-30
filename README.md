@@ -21,7 +21,7 @@
   
   <!-- Portfolio Description with Animation -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&pause=2000&color=FF6B6B&center=true&vCenter=true&random=false&width=800&lines=🎯+Interactive+AI%2FML+Portfolio+Experience;💼+Powered+by+HuggingFace+Spaces;✨+Click+Above+to+Explore+My+Journey!" alt="Portfolio Typing SVG" />
+    <img src="https://github.com/pranit144/pranit144/blob/main/blob/main/0_rOIc88HfNzBtAhru.gif" alt="Portfolio Typing SVG" />
   </a>
   
   <!-- Enhanced Portfolio Buttons Row -->
