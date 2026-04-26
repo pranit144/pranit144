@@ -180,14 +180,6 @@ Currently focused on: LLMs, RAG systems, and deploying ML at scale.
 
 ---
 
-## achievements
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=pranit144&theme=discord&no-frame=true&row=1&column=7&margin-w=15"/>
-</div>
-
----
-
 ## what's next
 
 ```
