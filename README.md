@@ -137,84 +137,54 @@
 
 ---
 
-## 🏗️ How I Build Things
+<div align="center">
 
-My typical project architecture for AI/ML + Full-Stack applications:
+# hey, i'm pranit 👋
 
-```
-User Interface (React.js)
-        │
-        ▼
-REST API / Backend (Node.js / Flask)
-        │
-        ▼
-ML Model Layer (TensorFlow / PyTorch)
-        │
-        ▼
-Database (MongoDB / PostgreSQL)
-```
+**AI/ML Engineer · Full-Stack Dev · Builder of things that think**
 
-**Typical Development Flow:**
-1. 📊 Data collection & preprocessing
-2. 🧠 Model training & evaluation
-3. 🔌 API development & integration
-4. 🎨 Frontend UI development
-5. 🚀 Deployment (AWS / HuggingFace Spaces)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://github.com/pranit144)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](#)
+
+</div>
 
 ---
 
-## ⚙️ Quick Setup (For My Projects)
+## what i do
 
-Most of my projects follow this standard setup:
+I build AI-powered products — from raw data to trained models to shipped interfaces. My stack lives at the intersection of **machine learning** and **full-stack engineering**, and I care a lot about making both sides work well together.
 
-```bash
-# Clone the repository
-git clone https://github.com/pranit144/<repo-name>
-cd <repo-name>
-
-# For Web Projects (MERN)
-npm install
-npm start
-
-# For ML/Python Projects
-pip install -r requirements.txt
-python app.py
-```
+Currently focused on: LLMs, RAG systems, and deploying ML at scale.
 
 ---
 
-## 📊 GitHub Statistics
+## stats
 
 <div align="center">
 
-<a href="https://github.com/pranit144"><img src="./profile-3d-contrib/profile-night-green.svg" width="100%"/></a>
+<a href="https://github.com/pranit144">
+  <img src="https://github-readme-stats.vercel.app/api?username=pranit144&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=0D1117" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranit144&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0D1117" height="165"/>
+</a>
+
+<br/>
+
+<a href="https://github.com/pranit144">
+  <img width="65%" src="https://github-readme-streak-stats.herokuapp.com/?user=pranit144&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&fire=6842F7&ring=6842F7&currStreakLabel=6842F7"/>
+</a>
 
 <br/><br/>
 
-<p align="center">
-  <a href="https://github.com/pranit144">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=pranit144&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&border_radius=10&hide_border=true&bg_color=0D1117"/>
-  </a>
-  <a href="https://github.com/pranit144">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranit144&layout=compact&langs_count=8&theme=tokyonight&border_radius=10&hide_border=true&bg_color=0D1117"/>
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/pranit144">
-    <img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=pranit144&theme=tokyonight&hide_border=true&background=0D1117&stroke=0D1117&fire=6842F7&ring=6842F7&currStreakLabel=6842F7"/>
-  </a>
-</p>
-
 <a href="https://github.com/pranit144">
-  <img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=pranit144&bg_color=0D1117&color=6842F7&line=6842F7&point=FFFFFF&area=true&hide_border=true"/>
+  <img width="88%" src="https://github-readme-activity-graph.vercel.app/graph?username=pranit144&bg_color=0D1117&color=6842F7&line=6842F7&point=FFFFFF&area=true&hide_border=true"/>
 </a>
 
 </div>
 
 ---
 
-## 🏆 GitHub Achievements
+## achievements
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=pranit144&theme=discord&no-frame=true&row=1&column=7&margin-w=15"/>
@@ -222,16 +192,22 @@ python app.py
 
 ---
 
-## 🚀 What's Next
+## what's next
 
-Things I'm actively working toward:
-
-- 🔬 Deeper research into **Large Language Models & RAG systems**
-- ☁️ Deploying production-scale apps on **AWS / GCP**
-- 📦 Contributing to **open-source AI/ML libraries**
-- 🎓 Preparing for **ML Engineer roles** post-graduation
+```
+→  deeper into LLMs & RAG systems
+→  production-scale deployments on AWS / GCP
+→  open-source AI/ML contributions
+→  ML Engineer roles post-graduation
+```
 
 ---
+
+<div align="center">
+
+*building in public · learning in loops · shipping what matters*
+
+</div>
 
 ## 💭 Thought of the Day
 
