@@ -97,26 +97,34 @@
 
 ---
 
-## 🚀 Featured Projects
+## 🚀 Featured Projects  
 
-> Click on a project to explore the full details, architecture, and live demos.
+> Explore real-world AI/ML systems, full-stack applications, and production-ready solutions.
 
-### 🤖 AI/ML Projects
+---
 
-| Project | Description | Tech Stack | Live Demo |
-|--------|-------------|------------|-----------|
-| 🧠 **Project 1** | Brief description of the problem it solves | Python, TensorFlow, Flask | [Demo](https://github.com/pranit144) |
-| 🔍 **Project 2** | Brief description of the problem it solves | PyTorch, React, Node.js | [Demo](https://github.com/pranit144) |
-| 📊 **Project 3** | Brief description of the problem it solves | Scikit-learn, Django, MongoDB | [Demo](https://github.com/pranit144) |
-
-> 💡 **Replace the placeholder rows above with your actual projects!**
-
-### 🌐 Web Development Projects
+### 🤖 AI/ML & Data Science Projects  
 
 | Project | Description | Tech Stack | Live Demo |
 |--------|-------------|------------|-----------|
-| 💻 **App 1** | Brief description | React, Node.js, MongoDB | [Demo](https://github.com/pranit144) |
-| 🛠️ **App 2** | Brief description | Django, PostgreSQL | [Demo](https://github.com/pranit144) |
+| 🧬 **Breast Cancer Detection (Multi-Approach)** | Built 7 ML/DL approaches including Radiomics + Deep Learning, U-Net segmentation, and Vision Transformers for accurate cancer detection | Python, PyTorch, TensorFlow, OpenCV | [View Project](https://github.com/pranit144) |
+| 🌾 **AgriTech AI Platform** | End-to-end intelligent agriculture system covering crop health detection, market intelligence, precision farming, and analytics | TensorFlow, Kafka, MongoDB, QGIS | [View Project](https://github.com/pranit144) |
+| 🚦 **Smart Traffic Signal Optimization** | AI model that dynamically adjusts traffic signals based on real-time vehicle density to reduce congestion | Python, ML Algorithms, OpenCV | [View Project](https://github.com/pranit144) |
+| 💰 **AI Financial Wellness Coach** | Personalized AI system for budgeting, expense tracking, and sustainable investment recommendations | Python, ML, Flask, Data Analytics | [View Project](https://github.com/pranit144) |
+
+---
+
+### 🌐 Full-Stack & AI Integrated Applications  
+
+| Project | Description | Tech Stack | Live Demo |
+|--------|-------------|------------|-----------|
+| 🤖 **AI Assistant (Jarvis-like System)** | Custom AI assistant that executes user commands, integrates APIs, and automates workflows | Python, NLP, APIs | [View Project](https://github.com/pranit144) |
+| 🔍 **Lost & Found Portal (Full System)** | Complete platform with user + admin panel for managing lost and found items with database integration | MERN Stack, Supabase | [View Project](https://github.com/pranit144) |
+| 🛒 **Blinkit-style Smart Delivery App** | Scalable quick-commerce UI with optimized product listing and real-time interaction design | React, Node.js, MongoDB | [View Project](https://github.com/pranit144) |
+
+---
+
+💡 **Tip:** Click on each project to explore detailed architecture, APIs, datasets, and live demos.
 
 <div align="center">
   <a href="https://github.com/pranit144?tab=repositories">
