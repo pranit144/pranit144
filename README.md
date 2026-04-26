@@ -137,17 +137,13 @@
 
 ---
 
-<div align="center">
+## 🤖 My Daily AI Agent
 
-# hey, i'm pranit 👋
+<p align="center">
+  <img src="./daily-ai-agent.png" alt="My Daily AI Agent" width="800"/>
+</p>
 
-**AI/ML Engineer · Full-Stack Dev · Builder of things that think**
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat-square&logo=vercel&logoColor=white)](https://github.com/pranit144)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](#)
-[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](#)
-
-</div>
 
 ---
 
