@@ -22,7 +22,7 @@
 
 | | |
 |---|---|
-| 🎓 **Education** | 3rd Year Engineering (AIML) |
+| 🎓 **Education** |  B.Tech Engineering CSE(AI&ML) , VIT PUNE 2026 |
 | 💻 **Passions** | Machine Learning, Web Development, Problem Solving |
 | 🧠 **Currently Learning** | Deep Learning & MERN Stack |
 | ⚡ **Fun Fact** | I debug code faster than I debug life problems! |
