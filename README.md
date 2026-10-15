@@ -27,7 +27,6 @@
 | 🧠 **Currently Learning** | Deep Learning & MERN Stack |
 | ⚡ **Fun Fact** | I debug code faster than I debug life problems! |
 | 💡 **Motto** | Creating solutions one line of code at a time |
-| 🌐 **Portfolio** | [Live AI/ML Demos](https://huggingface.co/spaces/pranit144/PRANIT_CHILBULE) |
 
 - 🔭 Working on **ML Models & Full-Stack Web Applications**
 - 🌱 Exploring the depths of **AI & Data Science**
