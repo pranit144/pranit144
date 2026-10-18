@@ -60,7 +60,7 @@ Waiting for the first run. Start the "Update live README block" workflow from th
 This chart is not a screenshot. A GitHub Action trains a small regression model on my last 60 days of contributions every night, forecasts the next 7 days, and commits the new chart. It also tests itself on a held-out week and shows whether it beats a simple average.
 
 <p align="center">
-  <img src="./assets/forecast.svg?v=1792351925" alt="Self-retraining contribution forecast" width="820"/>
+  <img src="https://raw.githubusercontent.com/pranit144/pranit144/main/assets/forecast.svg?v=2" alt="Self-retraining contribution forecast" width="820"/>
 </p>
 
 <sub>Source: <a href="./scripts/forecast.py">scripts/forecast.py</a></sub>
@@ -105,4 +105,10 @@ This chart is not a screenshot. A GitHub Action trains a small regression model 
 <div align="center">
   <br/>
   <a href="mailto:pranitchilbule1@gmail.com"><img src="https://img.shields.io/badge/Get_in_touch-4F7A74?style=for-the-badge&logo=gmail&logoColor=white" alt="Get in touch"/></a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=CDD2CA&height=140&section=footer" width="100%" alt=""/>
 </div>
