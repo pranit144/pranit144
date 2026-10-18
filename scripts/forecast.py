@@ -20,7 +20,10 @@ def fetch():
     data = json.load(urllib.request.urlopen(req))
     weeks = data["data"]["user"]["contributionsCollection"]["contributionCalendar"]["weeks"]
     days = sorted((d["date"], d["contributionCount"]) for w in weeks for d in w["contributionDays"])
-    days = days[-DAYS:]
+    today = dt.datetime.now(dt.timezone.utc).date().isoformat()
+    days = [d for d in days if d[0] <= today][-DAYS:]  # drop future days GitHub pads into the last week
+    if len(days) < 21:
+        raise SystemExit('Not enough contribution history yet (need at least 21 days).')
     return [dt.date.fromisoformat(d) for d, _ in days], np.array([c for _, c in days], float)
 
 def demo():
