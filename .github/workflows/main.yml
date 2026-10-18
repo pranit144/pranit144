@@ -4,9 +4,6 @@ on:
   schedule:
     - cron: "0 */6 * * *"
   workflow_dispatch:
-  push:
-    branches: [main]
-    paths: ["scripts/update_readme.py"]
 
 permissions:
   contents: write
@@ -16,18 +13,151 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: python scripts/update_readme.py
+
+      - name: Rebuild live blocks in README.md
         env:
           GH_USER: ${{ github.repository_owner }}
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          python - <<'PYEOF'
+          """Rebuilds the dynamic blocks in README.md. Standard library only.
+            LIVE     : Pune weather, recently pushed repos, latest Hugging Face Spaces
+            PROJECTS : your pinned GitHub repos (pin or unpin on your profile and the README follows)
+          Runs from .github/workflows/update-readme.yml."""
+          import json, os, re, datetime as dt, urllib.request
+
+          USER = os.environ.get("GH_USER", "pranit144")
+          HF_USER = os.environ.get("HF_USER", "pranit144")
+          TOKEN = os.environ.get("GITHUB_TOKEN", "")
+          README = os.environ.get("README", "README.md")
+
+          WEATHER = {0: "Clear", 1: "Mostly clear", 2: "Partly cloudy", 3: "Overcast", 45: "Fog", 48: "Fog",
+                     51: "Light drizzle", 53: "Drizzle", 55: "Heavy drizzle", 61: "Light rain", 63: "Rain",
+                     65: "Heavy rain", 80: "Rain showers", 81: "Rain showers", 82: "Violent showers",
+                     95: "Thunderstorm", 96: "Thunderstorm", 99: "Thunderstorm"}
+
+          def get(url, headers=None, data=None):
+              req = urllib.request.Request(url, data=data, headers={"User-Agent": "readme-updater", **(headers or {})})
+              return json.load(urllib.request.urlopen(req, timeout=20))
+
+          def ago(iso):
+              then = dt.datetime.fromisoformat(iso.replace("Z", "+00:00"))
+              days = (dt.datetime.now(dt.timezone.utc) - then).days
+              return "today" if days <= 0 else "yesterday" if days == 1 else f"{days} days ago"
+
+          def esc(t):
+              return (t or "").replace("<", "&lt;").replace(">", "&gt;").replace("|", "&#124;").strip()
+
+          # ---------- LIVE ----------
+          def weather_line():
+              try:
+                  d = get("https://api.open-meteo.com/v1/forecast?latitude=18.52&longitude=73.86"
+                          "&current=temperature_2m,weather_code&daily=sunrise,sunset&timezone=Asia%2FKolkata&forecast_days=1")
+                  t = round(d["current"]["temperature_2m"])
+                  sky = WEATHER.get(d["current"]["weather_code"], "unsettled")
+                  return (f"Right now in Pune: **{t}°C**, {sky.lower()}. "
+                          f"Sunrise {d['daily']['sunrise'][0][-5:]}, sunset {d['daily']['sunset'][0][-5:]}.")
+              except Exception as e:
+                  print("weather skipped:", e); return None
+
+          def recent_repos():
+              try:
+                  h = {"Authorization": f"bearer {TOKEN}"} if TOKEN else {}
+                  repos = get(f"https://api.github.com/users/{USER}/repos?sort=pushed&per_page=15", h)
+                  repos = [r for r in repos if not r["fork"] and r["name"].lower() != USER.lower()][:5]
+                  return [f"- [**{r['name']}**]({r['html_url']}) · {r['language'] or 'n/a'} · pushed {ago(r['pushed_at'])}"
+                          + (f"<br/>{esc(r['description'])}" if r["description"] else "") for r in repos]
+              except Exception as e:
+                  print("repos skipped:", e); return []
+
+          def hf_spaces():
+              try:
+                  sp = get(f"https://huggingface.co/api/spaces?author={HF_USER}&sort=lastModified&direction=-1&limit=4")
+                  return [f"- [**{s['id'].split('/')[-1]}**](https://huggingface.co/spaces/{s['id']})"
+                          f" · {s.get('sdk') or 'space'} · updated {ago(s['lastModified'])}" for s in sp]
+              except Exception as e:
+                  print("hugging face skipped:", e); return []
+
+          def live_block():
+              parts = []
+              w = weather_line()
+              if w: parts.append(w)
+              r = recent_repos()
+              if r: parts.append("**Recently shipped**\n\n" + "\n".join(r))
+              h = hf_spaces()
+              if h: parts.append("**Latest Hugging Face Spaces**\n\n" + "\n".join(h))
+              if not parts: return None
+              stamp = dt.datetime.now(dt.timezone.utc).strftime("%d %b %Y, %H:%M UTC")
+              parts.append(f"<sub>Rebuilt automatically · {stamp}</sub>")
+              return "\n\n".join(parts)
+
+          # ---------- PROJECTS ----------
+          QUERY = """query($u:String!){user(login:$u){pinnedItems(first:6,types:REPOSITORY){nodes{... on Repository{
+            name description url homepageUrl stargazerCount primaryLanguage{name}
+            repositoryTopics(first:4){nodes{topic{name}}}}}}}}"""
+
+          def pinned_repos():
+              try:
+                  body = json.dumps({"query": QUERY, "variables": {"u": USER}}).encode()
+                  d = get("https://api.github.com/graphql", {"Authorization": f"bearer {TOKEN}",
+                          "Content-Type": "application/json"}, body)
+                  return d["data"]["user"]["pinnedItems"]["nodes"]
+              except Exception as e:
+                  print("pinned repos skipped:", e); return []
+
+          def card(r):
+              topics = " ".join(f"`{t['topic']['name']}`" for t in r["repositoryTopics"]["nodes"])
+              meta = " · ".join(x for x in [
+                  (r["primaryLanguage"] or {}).get("name"),
+                  f"★ {r['stargazerCount']}" if r["stargazerCount"] else None] if x)
+              links = f"[Code]({r['url']})" + (f" · [Live]({r['homepageUrl']})" if r["homepageUrl"] else "")
+              return (f"<td width=\"50%\" valign=\"top\">\n\n**[{esc(r['name'])}]({r['url']})**<br/>"
+                      f"{esc(r['description']) or 'No description yet.'}<br/><sub>{meta}</sub><br/>"
+                      f"{topics}<br/>{links}\n\n</td>")
+
+          def projects_block():
+              repos = pinned_repos()
+              if not repos: return None
+              rows = []
+              for i in range(0, len(repos), 2):
+                  pair = [card(r) for r in repos[i:i + 2]]
+                  if len(pair) == 1: pair.append("<td></td>")
+                  rows.append("<tr>\n" + "\n".join(pair) + "\n</tr>")
+              return "<table>\n" + "\n".join(rows) + "\n</table>"
+
+          # ---------- WRITE ----------
+          def replace(text, name, content):
+              s, e = f"<!--{name}:START-->", f"<!--{name}:END-->"
+              new, n = re.subn(re.escape(s) + r".*?" + re.escape(e), lambda _: f"{s}\n{content}\n{e}", text, flags=re.S)
+              assert n == 1, f"{name} markers not found in README"
+              return new
+
+          def main():
+              text = open(README, encoding="utf-8").read()
+              changed = False
+              for name, build in (("LIVE", live_block), ("PROJECTS", projects_block)):
+                  content = build()
+                  if content:
+                      text = replace(text, name, content); changed = True
+                  else:
+                      print(f"{name}: nothing fetched, keeping the old block")
+              if changed:
+                  open(README, "w", encoding="utf-8").write(text)
+                  print("README updated")
+
+          if __name__ == "__main__":
+              main()
+          PYEOF
+
       - name: Commit README
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add README.md
-          git diff --cached --quiet || git commit -m "chore: refresh live block"
+          git diff --cached --quiet || git commit -m "chore: refresh live blocks"
           git pull --rebase
           git push
