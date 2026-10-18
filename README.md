@@ -30,7 +30,44 @@ I build machine learning systems and the apps that make them usable, from raw da
 These are my pinned repositories. Pin or unpin one on my profile and this list updates itself.
 
 <!--PROJECTS:START-->
-Waiting for the first run. Start the "Update live README block" workflow from the Actions tab.
+<table>
+<tr>
+<td width="50%" valign="top">
+
+**[EduGenie](https://github.com/pranit144/EduGenie)**<br/>EduGenie is an intelligent, multimodal tutoring assistant built with Streamlit and powered by Google's Gemini API. Whether you're studying for exams, revising chapters, or exploring new topics, EduGenie helps you:  📘 Generate detailed topic-wise explanations  🧾 Summarize complex concepts into digestible notes  🗣️ Listen to AI-generated audio for<br/><sub>Kotlin · ★ 1</sub><br/>`ai` `app` `llm` `ml`<br/>[Code](https://github.com/pranit144/EduGenie)
+
+</td>
+<td width="50%" valign="top">
+
+**[-Ground-Water-Level-Predictor](https://github.com/pranit144/-Ground-Water-Level-Predictor)**<br/>A full-stack AIML-powered web application for predicting groundwater levels and water well planning using machine learning and geospatial analysis. The model considers a variety of environmental and socio-geographic factors to estimate groundwater availability.<br/><sub>JavaScript</sub><br/><br/>[Code](https://github.com/pranit144/-Ground-Water-Level-Predictor)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[AgroConnect-Market-Storage-Finder-for-Farmers](https://github.com/pranit144/AgroConnect-Market-Storage-Finder-for-Farmers)**<br/>AgroConnect is a location-based platform designed to help farmers identify the nearest agricultural markets and storage facilities. Using geospatial data and real-time availability, it streamlines supply chain decisions, reduces crop wastage, and boosts farmer income by providing smart access to critical market and storage information.<br/><sub>HTML</sub><br/>`agriculture` `ai` `farming` `innovation`<br/>[Code](https://github.com/pranit144/AgroConnect-Market-Storage-Finder-for-Farmers) · [Live](https://pranit144-harvestanaylis.hf.space)
+
+</td>
+<td width="50%" valign="top">
+
+**[Financial-Stock-Insight-Web-App](https://github.com/pranit144/Financial-Stock-Insight-Web-App)**<br/>This is a Flask-based web application that provides comprehensive financial insights and analysis for popular global and Indian stocks. The app leverages Yahoo Finance data and an AI-powered financial research agent (using the PHI framework with the Groq LLM model) to deliver detailed stock performance metrics, analyst recommendations<br/><sub>HTML</sub><br/>`agentic-ai` `ai` `financial-analysis` `llm`<br/>[Code](https://github.com/pranit144/Financial-Stock-Insight-Web-App) · [Live](https://pranit144-stock-market-data-all-ratio-anaylisis.hf.space)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**[GenSong](https://github.com/pranit144/GenSong)**<br/>Create the song of your choosing.<br/><sub>Python</sub><br/><br/>[Code](https://github.com/pranit144/GenSong)
+
+</td>
+<td width="50%" valign="top">
+
+**[Git_and_Github_Repo](https://github.com/pranit144/Git_and_Github_Repo)**<br/>https://pranit144.github.io/Git_and_Github_Repo/#commands<br/><sub>HTML</sub><br/><br/>[Code](https://github.com/pranit144/Git_and_Github_Repo)
+
+</td>
+</tr>
+</table>
 <!--PROJECTS:END-->
 
 <div align="center">
@@ -67,7 +104,7 @@ Right now in Pune: **26°C**, partly cloudy. Sunrise 06:29, sunset 18:09.
 - [**Finance**](https://huggingface.co/spaces/pranit144/Finance) · docker · updated 253 days ago
 - [**Farmers_profile**](https://huggingface.co/spaces/pranit144/Farmers_profile) · docker · updated 288 days ago
 
-<sub>Rebuilt automatically · 18 Oct 2026, 19:42 UTC</sub>
+<sub>Rebuilt automatically · 18 Oct 2026, 19:45 UTC</sub>
 <!--LIVE:END-->
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
