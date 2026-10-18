@@ -50,7 +50,7 @@ Waiting for the first run. Start the "Update live README block" workflow from th
 ## Live
 
 <!--LIVE:START-->
-Right now in Pune: **25°C**, partly cloudy. Sunrise 06:29, sunset 18:09.
+Right now in Pune: **26°C**, partly cloudy. Sunrise 06:29, sunset 18:09.
 
 **Recently shipped**
 
