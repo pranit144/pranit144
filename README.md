@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/banner.svg" width="100%" alt="Pranit Chilbule, AI/ML engineer and full stack developer"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=CDD2CA&height=300&fontColor=2B3A37&section=header&text=Pranit%20Chilbule&fontSize=90&animation=fadeIn&fontAlignY=38&desc=AI/ML%20Engineer%20|%20MERN%20Developer%20|%20Tech%20Enthusiast&descAlignY=51&descAlign=62" width="100%"/>
 </div>
 
 <br/>
