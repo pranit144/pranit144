@@ -72,11 +72,15 @@ This chart is not a screenshot. A GitHub Action trains a small regression model 
 <div align="center">
   <img src="https://skillicons.dev/icons?i=python,js,cpp,java,html,css&perline=6&theme=light" alt="Languages"/>
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,pandas,opencv&perline=5&theme=light" alt="Machine learning"/>
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn,opencv&perline=4&theme=light" alt="Machine learning"/>
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,flask,django,supabase&perline=7&theme=light" alt="Web"/>
   <br/><br/>
-  <img src="https://skillicons.dev/icons?i=git,docker,aws,vscode,jupyter&perline=5&theme=light" alt="Tools"/>
+  <img src="https://skillicons.dev/icons?i=git,docker,aws,vscode&perline=4&theme=light" alt="Tools"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Pandas-7A9A94?style=flat-square&logo=pandas&logoColor=white" alt="Pandas"/> <img src="https://img.shields.io/badge/NumPy-7A9A94?style=flat-square&logo=numpy&logoColor=white" alt="NumPy"/> <img src="https://img.shields.io/badge/Jupyter-7A9A94?style=flat-square&logo=jupyter&logoColor=white" alt="Jupyter"/>
+  <br/><br/>
+  <img src="https://img.shields.io/badge/Hugging_Face-4F7A74?style=flat-square&logo=huggingface&logoColor=white" alt="Hugging Face"/> <img src="https://img.shields.io/badge/CUDA-4F7A74?style=flat-square&logo=nvidia&logoColor=white" alt="CUDA"/> <img src="https://img.shields.io/badge/Quantization-4F7A74?style=flat-square" alt="Quantization"/> <img src="https://img.shields.io/badge/GPTQ-4F7A74?style=flat-square" alt="GPTQ"/> <img src="https://img.shields.io/badge/AWQ-4F7A74?style=flat-square" alt="AWQ"/> <img src="https://img.shields.io/badge/GGUF-4F7A74?style=flat-square" alt="GGUF"/> <img src="https://img.shields.io/badge/bitsandbytes-4F7A74?style=flat-square" alt="bitsandbytes"/> <img src="https://img.shields.io/badge/llama.cpp-4F7A74?style=flat-square" alt="llama.cpp"/> <img src="https://img.shields.io/badge/Ollama-4F7A74?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/> <img src="https://img.shields.io/badge/vLLM-4F7A74?style=flat-square" alt="vLLM"/>
 </div>
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
