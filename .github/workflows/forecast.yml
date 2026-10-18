@@ -25,6 +25,9 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add assets/forecast.svg
+          # New query string on every run so GitHub's image cache fetches the fresh chart
+          sed -i -E "s#assets/forecast\.svg(\?v=[0-9]+)?#assets/forecast.svg?v=$(date +%s)#" README.md
+          git add assets/forecast.svg README.md
           git diff --cached --quiet || git commit -m "chore: retrain forecast"
+          git pull --rebase
           git push
