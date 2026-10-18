@@ -50,24 +50,7 @@ Waiting for the first run. Start the "Update live README block" workflow from th
 ## Live
 
 <!--LIVE:START-->
-Right now in Pune: **26°C**, partly cloudy. Sunrise 06:29, sunset 18:09.
-
-**Recently shipped**
-
-- [**Git_and_Github_Repo**](https://github.com/pranit144/Git_and_Github_Repo) · HTML · pushed today<br/>https://pranit144.github.io/Git_and_Github_Repo/#commands
-- [**PRC_LIBRARY**](https://github.com/pranit144/PRC_LIBRARY) · Python · pushed 22 days ago<br/>Real-time AI/ML training observability platform — see live loss/accuracy, get plain-language anomaly detection (overfitting, plateau, vanishing gradients), and forecast where training is headed. Works with PyTorch & Keras. pip install trainprc.
-- [**NeuraNova-**](https://github.com/pranit144/NeuraNova-) · JavaScript · pushed 35 days ago<br/>Pranit 🧠 I teach AI, ML & DL with memes. Because learning should be smarter than the hype. 🌌
-- [**Lekha-From_pages_to_deep-comprehension.**](https://github.com/pranit144/Lekha-From_pages_to_deep-comprehension.) · CSS · pushed 196 days ago<br/>Lekha transforms passive reading into active learning by combining AI narration, contextual explanations, and focus tools to help users deeply understand and retain content.
-- [**MlOPS-on-finance-data-**](https://github.com/pranit144/MlOPS-on-finance-data-) · Python · pushed 218 days ago
-
-**Latest Hugging Face Spaces**
-
-- [**PRC_BOT**](https://huggingface.co/spaces/pranit144/PRC_BOT) · docker · updated 141 days ago
-- [**agri_ai_backend**](https://huggingface.co/spaces/pranit144/agri_ai_backend) · docker · updated 186 days ago
-- [**Finance**](https://huggingface.co/spaces/pranit144/Finance) · docker · updated 253 days ago
-- [**Farmers_profile**](https://huggingface.co/spaces/pranit144/Farmers_profile) · docker · updated 288 days ago
-
-<sub>Rebuilt automatically · 18 Oct 2026, 19:09 UTC</sub>
+Waiting for the first run. Start the "Update live README block" workflow from the Actions tab.
 <!--LIVE:END-->
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
@@ -77,7 +60,7 @@ Right now in Pune: **26°C**, partly cloudy. Sunrise 06:29, sunset 18:09.
 This chart is not a screenshot. A GitHub Action trains a small regression model on my last 60 days of contributions every night, forecasts the next 7 days, and commits the new chart. It also tests itself on a held-out week and shows whether it beats a simple average.
 
 <p align="center">
-  <img src="./assets/forecast.svg" alt="Self-retraining contribution forecast" width="820"/>
+  <img src="./assets/forecast.svg?v=1" alt="Self-retraining contribution forecast" width="820"/>
 </p>
 
 <sub>Source: <a href="./scripts/forecast.py">scripts/forecast.py</a></sub>
