@@ -34,7 +34,7 @@
 
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
-https://hackaday.com/wp-content/uploads/2024/11/LLM-Anim-visualization.gif
+<img src="https://hackaday.com/wp-content/uploads/2024/11/LLM-Anim-visualization.gif">
 
 
 
