@@ -33,114 +33,44 @@
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
 <!--PROJECTS:START-->
-
 <table>
 <tr>
 <td width="50%" valign="top">
 
-<h3>🧠 <a href="https://github.com/pranit144/EduGenie">EduGenie</a></h3>
-
-An AI-powered multimodal tutor built with Streamlit and Gemini. Generate explanations, summarize concepts, and make learning interactive.
-
-<p>
-<img src="https://img.shields.io/badge/AI-Tutor-8A2BE2?style=for-the-badge&logo=google-gemini&logoColor=white" />
-<img src="https://img.shields.io/badge/LLM-Powered-412991?style=for-the-badge" />
-</p>
-
-AI LLM Machine Learning
-
-<a href="https://github.com/pranit144/EduGenie">📂 Explore Repository ↗</a>
+**[EduGenie](https://github.com/pranit144/EduGenie)**<br/>EduGenie is an intelligent, multimodal tutoring assistant built with Streamlit and powered by Google's Gemini API. Whether you're studying for exams, revising chapters, or exploring new topics, EduGenie helps you:  📘 Generate detailed topic-wise explanations  🧾 Summarize complex concepts into digestible notes  🗣️ Listen to AI-generated audio for<br/><sub>Kotlin · ★ 1</sub><br/>`ai` `app` `llm` `ml`<br/>[Code](https://github.com/pranit144/EduGenie)
 
 </td>
 <td width="50%" valign="top">
 
-<h3>💧 <a href="https://github.com/pranit144/-Ground-Water-Level-Predictor">Groundwater Predictor</a></h3>
-
-Predict groundwater levels and support well planning with machine learning and geospatial analysis.
-
-<p>
-<img src="https://img.shields.io/badge/Machine-Learning-00A896?style=for-the-badge&logo=scikitlearn&logoColor=white" />
-<img src="https://img.shields.io/badge/Geospatial-Analysis-228B22?style=for-the-badge" />
-</p>
-
-AI/ML Prediction Environment
-
-<a href="https://github.com/pranit144/-Ground-Water-Level-Predictor">📂 Explore Repository ↗</a>
+**[-Ground-Water-Level-Predictor](https://github.com/pranit144/-Ground-Water-Level-Predictor)**<br/>A full-stack AIML-powered web application for predicting groundwater levels and water well planning using machine learning and geospatial analysis. The model considers a variety of environmental and socio-geographic factors to estimate groundwater availability.<br/><sub>JavaScript</sub><br/><br/>[Code](https://github.com/pranit144/-Ground-Water-Level-Predictor)
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-<h3>🌾 <a href="https://github.com/pranit144/AgroConnect-Market-Storage-Finder-for-Farmers">AgroConnect</a></h3>
-
-A location-based platform connecting farmers with nearby agricultural markets and storage facilities to reduce waste and improve supply-chain decisions.
-
-<p>
-<img src="https://img.shields.io/badge/AgriTech-2E8B57?style=for-the-badge&logo=leaflet&logoColor=white" />
-<img src="https://img.shields.io/badge/Location-Based-0078D4?style=for-the-badge" />
-</p>
-
-Agriculture Innovation Geospatial
-
-<a href="https://github.com/pranit144/AgroConnect-Market-Storage-Finder-for-Farmers">📂 Repository ↗</a> · <a href="https://pranit144-harvestanaylis.hf.space">🚀 Live Demo</a>
+**[AgroConnect-Market-Storage-Finder-for-Farmers](https://github.com/pranit144/AgroConnect-Market-Storage-Finder-for-Farmers)**<br/>AgroConnect is a location-based platform designed to help farmers identify the nearest agricultural markets and storage facilities. Using geospatial data and real-time availability, it streamlines supply chain decisions, reduces crop wastage, and boosts farmer income by providing smart access to critical market and storage information.<br/><sub>HTML</sub><br/>`agriculture` `ai` `farming` `innovation`<br/>[Code](https://github.com/pranit144/AgroConnect-Market-Storage-Finder-for-Farmers) · [Live](https://pranit144-harvestanaylis.hf.space)
 
 </td>
 <td width="50%" valign="top">
 
-<h3>📈 <a href="https://github.com/pranit144/Financial-Stock-Insight-Web-App">Financial Stock Insight</a></h3>
-
-A financial analytics web app combining stock market data with an AI-powered research agent for financial insights and stock analysis.
-
-<p>
-<img src="https://img.shields.io/badge/AI-Agent-6C63FF?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Finance-Analysis-00A86B?style=for-the-badge" />
-</p>
-
-LLM Agentic AI Financial Analytics
-
-<a href="https://github.com/pranit144/Financial-Stock-Insight-Web-App">📂 Repository ↗</a> · <a href="https://pranit144-stock-market-data-all-ratio-anaylisis.hf.space">🚀 Live Demo</a>
+**[Financial-Stock-Insight-Web-App](https://github.com/pranit144/Financial-Stock-Insight-Web-App)**<br/>This is a Flask-based web application that provides comprehensive financial insights and analysis for popular global and Indian stocks. The app leverages Yahoo Finance data and an AI-powered financial research agent (using the PHI framework with the Groq LLM model) to deliver detailed stock performance metrics, analyst recommendations<br/><sub>HTML</sub><br/>`agentic-ai` `ai` `financial-analysis` `llm`<br/>[Code](https://github.com/pranit144/Financial-Stock-Insight-Web-App) · [Live](https://pranit144-stock-market-data-all-ratio-anaylisis.hf.space)
 
 </td>
 </tr>
-
 <tr>
 <td width="50%" valign="top">
 
-<h3>🎵 <a href="https://github.com/pranit144/GenSong">GenSong</a></h3>
-
-A creative Python project focused on generating songs from user ideas.
-
-<p>
-<img src="https://img.shields.io/badge/Generative-AI-FF69B4?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-</p>
-
-Python Creative AI
-
-<a href="https://github.com/pranit144/GenSong">📂 Explore Repository ↗</a>
+**[GenSong](https://github.com/pranit144/GenSong)**<br/>Create the song of your choosing.<br/><sub>Python</sub><br/><br/>[Code](https://github.com/pranit144/GenSong)
 
 </td>
 <td width="50%" valign="top">
 
-<h3>⚡ <a href="https://github.com/pranit144/Git_and_Github_Repo">Git & GitHub Guide</a></h3>
-
-A practical reference for Git and GitHub commands, workflows, and everyday development.
-
-<p>
-<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
-
-Developer Tools Git Documentation
-
-<a href="https://github.com/pranit144/Git_and_Github_Repo">📂 Repository ↗</a> · <a href="https://pranit144.github.io/Git_and_Github_Repo/#commands">🌐 Visit Website</a>
+**[Git_and_Github_Repo](https://github.com/pranit144/Git_and_Github_Repo)**<br/>https://pranit144.github.io/Git_and_Github_Repo/#commands<br/><sub>HTML · ★ 1</sub><br/><br/>[Code](https://github.com/pranit144/Git_and_Github_Repo)
 
 </td>
 </tr>
 </table>
-
 <!--PROJECTS:END-->
 
 <div align="center">
@@ -160,7 +90,7 @@ Developer Tools Git Documentation
 ## Live
 
 <!--LIVE:START-->
-Right now in Pune: **27°C**, partly cloudy. Sunrise 06:29, sunset 18:08.
+Right now in Pune: **29°C**, mostly clear. Sunrise 06:29, sunset 18:08.
 
 **Recently shipped**
 
@@ -177,7 +107,7 @@ Right now in Pune: **27°C**, partly cloudy. Sunrise 06:29, sunset 18:08.
 - [**Finance**](https://huggingface.co/spaces/pranit144/Finance) · docker · updated 254 days ago
 - [**Farmers_profile**](https://huggingface.co/spaces/pranit144/Farmers_profile) · docker · updated 290 days ago
 
-<sub>Rebuilt automatically · 20 Oct 2026, 03:36 UTC</sub>
+<sub>Rebuilt automatically · 20 Oct 2026, 04:18 UTC</sub>
 <!--LIVE:END-->
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
