@@ -14,7 +14,8 @@
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-🧑‍💻 ## About Me
+
+## 🧑‍💻 About Me
 
 🧠 AI/ML Engineer exploring the world of LLMs, deep learning & AI research.
 
