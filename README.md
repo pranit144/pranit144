@@ -14,14 +14,20 @@
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
-## About
+🧑‍💻 About Me
 
-I build machine learning systems and the apps that make them usable, from raw data and a trained model to something you can open in a browser. My projects are in medical imaging, agriculture, traffic and campus tools.
+🧠 AI/ML Engineer exploring the world of LLMs, deep learning & AI research.
 
-- Studying B.Tech CSE (AI & ML) at **VIT Pune**, class of 2026
-- Working with deep learning, computer vision and the MERN stack
-- Open to ML engineer roles, and to collaborating on Python, React and ML projects
-- Reach me at **pranitchilbule1@gmail.com**
+🎓 VIT Pune — B.Tech CSE (AI & ML), Class of 2026 | Graduated July 2026.
+
+🔬 Currently diving into LLMs, research papers, and building intelligent AI systems.
+
+⚡ I turn ideas into reality with Python, ML, React & the MERN stack.
+
+🌍 Interested in AI research, innovative projects, and building things that actually matter.
+
+🤝 Open to AI/ML opportunities, research collaborations & cool projects.
+
 
 <img src="./assets/divider.svg" width="100%" alt=""/>
 
