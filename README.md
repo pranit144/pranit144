@@ -101,8 +101,6 @@ This chart is not a screenshot. A GitHub Action trains a small regression model 
   <br/><br/>
   <img width="70%" src="https://streak-stats.demolab.com/?user=pranit144&border_radius=10&background=FFFFFF&border=CDD2CA&stroke=CDD2CA&ring=4F7A74&fire=4F7A74&currStreakNum=2B3A37&sideNums=2B3A37&currStreakLabel=4F7A74&sideLabels=6B7F7A&dates=6B7F7A" alt="Contribution streak"/>
   <br/><br/>
-  <img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=pranit144&bg_color=FFFFFF&color=4F7A74&line=7A9A94&point=2B3A37&area=true&area_color=CDD2CA&hide_border=true" alt="Contribution activity graph"/>
-  <br/><br/>
   <img width="100%" src="https://raw.githubusercontent.com/pranit144/pranit144/output/github-contribution-grid-snake.svg" alt="Contribution snake"/>
 </div>
 
