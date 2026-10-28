@@ -78,7 +78,7 @@ Right now in Pune: **29°C**, mostly clear. Sunrise 06:29, sunset 18:08.
 This chart is not a screenshot. A GitHub Action trains a small regression model on my last 60 days of contributions every night, forecasts the next 7 days, and commits the new chart. It also tests itself on a held-out week and shows whether it beats a simple average.
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/pranit144/pranit144/main/assets/forecast.svg?v=1793078532" alt="Self-retraining contribution forecast" width="820"/>
+  <img src="https://raw.githubusercontent.com/pranit144/pranit144/main/assets/forecast.svg?v=1793167230" alt="Self-retraining contribution forecast" width="820"/>
 </p>
 
 <sub>Source: <a href="./scripts/forecast.py">scripts/forecast.py</a></sub>
